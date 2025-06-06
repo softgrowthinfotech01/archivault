@@ -1,0 +1,32 @@
+/* CTA Section  */
+
+.cta-section{
+   @media #{$xs}{
+       text-align: center;
+    } 
+}
+
+.cta-section h3 {
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 45px;
+    color: #fff;
+     @media #{$xs}{
+        font-size: 30px;
+        line-height: 35px;
+        text-align: center;
+    }
+}
+
+.cta-btn{
+    display: inline-flex;
+    gap: 20px;
+    @media #{$xs}{
+        margin-top: 10px;
+    }
+    
+}
+
+.cta-section .section-title {
+    margin-bottom: 0;
+}

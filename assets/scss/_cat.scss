@@ -1,0 +1,118 @@
+.category-section .container {
+    max-width: 1140px;
+}
+
+.single-cat-item{
+    @media #{$xs}{
+        margin-bottom: 60px;
+    }
+}
+
+.cat-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+
+    &:before {
+    content: '';
+    display: block;
+    height: 1px;
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    left: 0;
+    background-color: #ddd;
+    }
+    &:after{
+    content: '';
+    display: block;
+    height: 1px;
+    width: 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    left: 0;
+    background-color: #333;
+    transition: 0.4s ease;
+    }
+}
+
+.single-cat-item:hover .cat-info::after {
+    width: 100%;
+}
+
+
+
+.cat-title-wrap {
+    display: inline-flex;
+    align-items: center;
+}
+
+h5.cat-title {
+    font-size: 28px;
+    font-weight: 500;
+    margin: 25px 0;
+    @media #{$md}{
+        font-size: 20px;
+        margin: 10px 0;
+    }
+    @media #{$xs}{
+        font-size: 20px;
+        margin: 10px 0;
+    }
+}
+
+span.cat-item-num {
+    font-size: 28px;
+    font-weight: 500;
+    margin-right: 0;
+    display: inline-block;
+    opacity: 0;
+    text-indent: -50px;
+    white-space: nowrap;
+    will-change: text-indent, opacity, margin-right;
+    transition: text-indent 0.4s ease-out, opacity 0.4s ease-out, margin-right 0.2s ease-out;
+    overflow: hidden;
+    @media #{$md}{
+        font-size: 20px;        
+    }
+    @media #{$xs}{
+        font-size: 20px;        
+    }
+}
+
+.single-cat-item:hover span.cat-item-num {
+    opacity: 1;
+    text-indent: 0;
+    margin-right: 0.45em;
+}
+
+.cat-link {
+    width: 35px;
+    height: 35px;
+    border: 2px solid #ddd;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    transition: .3s ease-in-out;
+    visibility: hidden;
+    i{
+        font-size: 16px;
+    }
+    
+}
+
+.single-cat-item:hover .cat-link {
+    visibility: visible;
+}
+
+.category-section.section-padding {
+    @media #{$xs}{
+        padding-bottom: 0;
+    }
+    
+}

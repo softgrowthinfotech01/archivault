@@ -1,0 +1,78 @@
+.quote-form-wrap {
+    background: #fff;
+}
+
+.quote-form {
+    padding: 90px 70px 90px;
+    @media #{$xs}{
+        padding: 60px 30px;
+    }
+}
+
+span.form-control-wrap {
+    display: block;
+}
+
+.quote-form input {
+    border: none;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding-left: 30px;
+}
+
+.quote-form input[type='submit'] {
+    padding-left: 20px;
+}
+.quote-form textarea {
+    border: none;
+    border-bottom: 1px solid #ddd;
+    height: 80px;
+    resize: none;
+    padding-left: 30px;
+}
+
+.quote-form input::placeholder {    
+    font-weight: 500;
+}
+
+.quote-form textarea::placeholder {    
+    font-weight: 500;
+}
+
+.quote-form input[type=submit] {
+    margin-top: 30px;
+}
+
+span.form-icon {
+    position: relative;
+    z-index: 1;
+}
+
+span.form-icon:before {
+    position: absolute;
+    font-family:"FontAwesome";
+    content: "\f007";
+    top: 20px;
+    left: 0;
+    font-size: 16px;
+    color: #777;
+}
+
+span.form-icon.user-icon:before {
+    content: "\f007";
+}
+
+span.form-icon.phone-icon:before {
+    content: "\f095";
+}
+
+span.form-icon.email-icon:before {
+    content: "\f0e0";
+}
+
+span.form-icon.subject-icon:before {
+    content: "\f89f";
+}
+span.form-icon.text-icon:before {
+    content: "\e215";
+}

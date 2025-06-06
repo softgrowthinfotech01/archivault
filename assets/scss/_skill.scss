@@ -1,0 +1,8 @@
+.progress-bar-area {
+    padding-left: 60px;
+    @media #{$xs}{
+        margin-top: 60px;
+    }
+    
+}
+

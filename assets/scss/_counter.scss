@@ -1,0 +1,161 @@
+// Counter # 01
+
+    .single-counter-box {    
+        text-align: center;
+        @media #{$md} {      
+            margin-bottom: 30px;
+        }
+        @media #{$xs} {      
+            margin-bottom: 60px;      
+            text-align: center;
+        }
+        h6 {
+            font-size: 18px;
+            font-weight: 500;               
+            margin-bottom: 15px; 
+    
+            @media #{$xs} {            
+                font-size: 17px;
+            }
+        }
+        
+    }
+    
+    .single-counter-box .counter-number span {
+        font-size: 65px;
+        font-weight: 600;
+        line-height: 1.5;
+        letter-spacing: 1px;        
+        
+        @media #{$lg} {
+            font-size: 60px;
+        }
+        @media #{$md} {
+            font-size: 50px;
+        }
+    
+        @media #{$xs} {
+            font-size: 50px;
+        }
+    }
+    
+    .single-counter-box p.counter-number {
+        font-size: 70px;
+        color: $text_dark;        
+        margin: 0;
+        @media #{$lg} {
+            font-size: 65px;
+        }
+        @media #{$md} {
+            font-size: 55px;
+        }
+        @media #{$xs} {
+            font-size: 55px;
+        }
+        
+    }
+
+.counter-section.section-padding {
+    @media #{$xs}{
+        padding-bottom: 30px;
+    }
+}
+
+// Counter # 02
+
+#counter-2 {
+
+    .counter-area {
+        height: 300px;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        position: relative;
+        z-index: -1;
+
+        @media #{$xs} {
+            height: 700px;
+        }
+    }
+
+    .single-counter-box {
+        text-align: center;
+
+        @media #{$xs} {
+            margin-bottom: 100px;
+        }
+
+        span {
+            font-size: 150px;
+            font-weight: 500;
+            color: #777;
+            margin: 30px 0 10px;
+            opacity: .1;
+            position: absolute;
+            left: 50px;
+            top: 50%;
+            transform: translate(-50px, -125px);
+            width: 100%;
+
+            @media #{$lg} {
+                font-size: 140px;                
+            }
+
+            @media #{$md} {
+                font-size: 120px;                
+            }
+            @media #{$xs} {
+                font-size: 120px;            
+            }
+        }
+
+        h6 {
+            color: $text_dark;
+            font-size: 24px;
+            font-weight: 500;
+
+            @media #{$md} {
+                font-size: 18px;
+                margin-top: 25px;
+            }
+            @media #{$xs} {
+                font-size: 16px;
+                margin-top: 25px;
+            }
+
+        }
+
+        p {
+            font-size: 40px;
+            color: #fff;
+        }
+    }
+
+    .single-counter-box.two .counter-number span {
+        color: #616366;
+    }
+
+}
+
+#counter-2.pt-60 {
+    padding-top: 0;
+  }
+
+#counter-2.counter-area.section-padding {
+    @media #{$xs}{
+        padding-bottom: 30px;
+    }
+}
+
+
+
+
