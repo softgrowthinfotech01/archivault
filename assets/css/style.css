@@ -257,6 +257,12 @@ hr {
   opacity: 0.5;
 }
 
+
+
+.hero-area{
+  background-image: url(new img/front.jpg);
+}
+
 .section-title p {
   margin: 0;
 }
