@@ -104,7 +104,7 @@
                             <h4>Interior & Exterior Doors</h4>
                             <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                         </div>   
-                        <a href="service-details.html" class="service-link">
+                        <a href="service-details.php" class="service-link">
                             <i class="las la-arrow-right"></i>
                         </a>                                                                     
                     </div>
@@ -119,7 +119,7 @@
                             <h4>Stylish & Quality Windows</h4>
                             <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                         </div>
-                        <a href="service-details.html" class="service-link">
+                        <a href="service-details.php" class="service-link">
                             <i class="las la-arrow-right"></i>
                         </a>                                                                        
                     </div>
