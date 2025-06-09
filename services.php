@@ -54,174 +54,9 @@
     <div class="mouseCursor cursor-outer"></div>
     <div class="mouseCursor cursor-inner"><span>Drag</span></div>
 
-    <!-- Header Area  -->
-    <div class="header-area absolute-header mt-0">
-        <div id="header-sticky">
-            <div class="navigation">
-                <div class="container-fluid">
-                    <div class="header-inner-box">
-
-                        <!-- Logo -->
-                        <div class="logo">
-                            <a class="navbar-brand" href="index.html"><img src="assets/img/logo-white.png" alt=""></a>
-                        </div>
-
-                        <!-- Main Menu  -->
-                        <div class="main-menu d-none d-lg-block">
-                            <ul>
-                                <li class="active"><a class="navlink" href="#">Home</a>
-                                    <ul class="sub-menu">
-                                        <li><a class="active" href="index.html">Home - Main</a></li>
-                                        <li><a href="index-2.html">Home - Doors </a></li>
-                                        <li><a href="index-3.html">Home - Windows</a></li>
-                                        <li><a href="index-4.html">Home - Furniture</a></li>
-                                        <li><a href="index-5.html">Home - Interior</a></li>
-                                    </ul>
-                                </li>
-                                <li><a class="navlink" href="#">Pages</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="about.html">About Us</a></li>
-                                        <li><a href="services.html">Our Services</a></li>                                        
-                                        <li><a href="team.html">Our Team</a></li>
-                                        <li><a href="price.html">Pricing</a></li>
-                                        <li><a href="faq.html">FAQs</a></li>
-                                        <li><a href="quote.html">Request a Quote</a></li>
-                                    </ul>
-                                </li> 
-                                <li><a class="navlink" href="#">Services</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="services.html">Services</a></li>
-                                        <li><a href="service-details.html">Service Details</a></li>
-                                    </ul>
-                                </li>                               
-                                <li><a class="navlink" href="#">Portfolio</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="portfolio-standard.html">Standard</a></li>
-                                        <li><a href="portfolio-metro.html">Metro Fullwidth</a></li>                                        
-                                        <li><a href="portfolio-grid.html">Grid</a></li>
-                                        <li><a href="portfolio-list.html">List</a></li>
-                                        <li><a href="portfolio-masonry.html">Masonry</a></li>
-                                        <li><a href="portfolio-slider.html">Slider</a></li>                                        
-                                        <li class="nav-item">
-                                            <a href="#">Single Portfolio <i class="las la-arrow-right"></i>
-                                                <span class="sub-nav-toggler"></span>
-                                            </a>
-                                            <ul class="sub-menu-two">
-                                                <li><a href="portfolio-details-left-sidebar.html">Left Sidebar</a></li>
-                                                <li><a href="portfolio-details-right-sidebar.html">Right Sidebar</a></li>
-                                                <li><a href="portfolio-details-gallery.html">Gallery</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li><a class="navlink" href="#">Blog</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="blog-standard.html">Blog- Standard</a></li>
-                                        <li><a href="blog-grid.html">Blog- Grid</a></li>
-                                        <li><a href="blog-details.html">Blog Details</a></li>
-                                    </ul>
-                                </li>
-
-                                <li><a class="navlink" href="contact.html">Contact</a></li>
-                            </ul>
-                        </div>
-
-                        <div class="header-right">
-
-                            <!-- Search Button  -->
-                            <div class="search-trigger">
-                                <i class="fal fa-search"></i>
-                            </div>
-                            <div class="contact-number d-none">
-                                <div class="icon"><i class="las la-phone-volume"></i></div>
-                                <div class="title"><h4>1 800 458 56 97</h4></div>
-                            </div>
-                            <!-- Header Button -->
-                            <a href="quote.html" class="theme-btn d-none d-lg-inline-block">Request a Quote</a>
-
-                        </div>
-                        <!-- Mobile Menu -->
-                        <div class="mobile-nav-bar d-block col-sm-1 col-6 d-lg-none">
-                            <div class="mobile-nav-wrap">
-                                <div id="hamburger">
-                                    <i class="las la-bars"></i>
-                                </div>
-                                <!-- mobile menu - responsive menu  -->
-                                <div class="mobile-nav">
-                                    <button type="button" class="close-nav">
-                                        <i class="las la-times-circle"></i>
-                                    </button>
-                                    <nav class="sidebar-nav">
-                                        <ul class="metismenu" id="mobile-menu">
-                                            <li><a class="has-arrow" href="#">Homes</a>
-                                                <ul class="sub-menu">
-                                                    <li><a class="active" href="index.html">Home - Main</a></li>
-                                                    <li><a href="index-2.html">Home - Doors </a></li>
-                                                    <li><a href="index-3.html">Home - Windows</a></li>
-                                                    <li><a href="index-4.html">Home - Furniture</a></li>
-                                                    <li><a href="index-5.html">Home - Interior</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a class="has-arrow" href="#">Pages</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="about.html">About Us</a></li>
-                                                    <li><a href="services.html">Our Services</a></li>                                        
-                                                    <li><a href="team.html">Our Team</a></li>
-                                                    <li><a href="price.html">Pricing</a></li>
-                                                    <li><a href="faq.html">FAQs</a></li>
-                                                    <li><a href="quote.html">Request a Quote</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a class="has-arrow" href="#">Services</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="services.html">Services</a></li>
-                                                    <li><a href="service-details.html">Service Details</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a class="has-arrow" href="#">Portfolio</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="portfolio-standard.html">Standard</a></li>
-                                                    <li><a href="portfolio-metro.html">Metro Fullwidth</a></li>                                        
-                                                    <li><a href="portfolio-grid.html">Grid</a></li>
-                                                    <li><a href="portfolio-list.html">List</a></li>
-                                                    <li><a href="portfolio-masonry.html">Masonry</a></li>
-                                                    <li><a href="portfolio-slider.html">Slider</a></li>
-                                                    <li class="nav-item">
-                                                        <a href="#">Single Portfolio <i class="las la-arrow-right"></i>
-                                                            <span class="sub-nav-toggler"></span>
-                                                        </a>
-                                                        <ul class="sub-menu-two">
-                                                            <li><a href="portfolio-details-left-sidebar.html">Left Sidebar</a></li>
-                                                            <li><a href="portfolio-details-right-sidebar.html">Right Sidebar</a></li>
-                                                            <li><a href="portfolio-details-gallery.html">Gallery</a></li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li><a class="has-arrow" href="#">Blog</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="blog-standard.html">Blog - Standard</a></li>
-                                                    <li><a href="blog-grid.html">Blogs - Grid</a></li>
-                                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="contact.html">Contact</a></li>
-
-                                        </ul>
-                                    </nav>
-                                    <div class="action-bar">
-                                        <a href="mailto:info@roofix.com"><i class="las la-envelope"></i>info@windox.com</a>
-                                        <a href="tel:123-456-7890"><i class="fal fa-phone"></i>123-456-7890</a>
-                                        <a href="contact.html" class="theme-btn">Contact Us</a>
-                                    </div>
-                                </div>
-                            </div>                            
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <!--header start -->
+    <?php include 'header.php'; ?>
+    <!-- header end-->
 
     <!-- Breadcrumb Area  -->
     <div class="breadcrumb-area bread-bg">  
@@ -252,7 +87,7 @@
                         </div>
                         <h4>We produce wooden and plastic doors.</h4>
                         <p class="pt-30 pb-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non incididunt ut.</p>
-                        <a href="about.html" class="theme-btn">About Us</a>
+                        <a href="about.php" class="theme-btn">About Us</a>
                         <span class="contact-icon"><i class="fa-light fa-phone-volume"></i></span><span class="contact-num">0 800 555 44 33</span>
                     </div>
                 </div>
@@ -292,7 +127,7 @@
                             <h4>Interior & Exterior Doors</h4>
                             <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                         </div>   
-                        <a href="service-details.html" class="service-link">
+                        <a href="service-details.php" class="service-link">
                             <i class="las la-arrow-right"></i>
                         </a>                                                                     
                     </div>
@@ -307,7 +142,7 @@
                             <h4>Stylish & Quality Windows</h4>
                             <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                         </div>
-                        <a href="service-details.html" class="service-link">
+                        <a href="service-details.php" class="service-link">
                             <i class="las la-arrow-right"></i>
                         </a>                                                                        
                     </div>
@@ -322,7 +157,7 @@
                             <h4>Parts & Accessories</h4>
                             <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                         </div>                        
-                        <a href="service-details.html" class="service-link">
+                        <a href="service-details.php" class="service-link">
                             <i class="las la-arrow-right"></i>
                         </a>                    
                     </div>
@@ -344,8 +179,8 @@
                 </div>
                 <div class="col-xl-4 col-lg-5 text-lg-end">
                     <div class="cta-btn">
-                        <a href="quote.html" class="dark-btn">Request a Quote</a>
-                        <a href="contact.html" class="white-btn">Contact Us</a>
+                        <a href="quote.php" class="dark-btn">Request a Quote</a>
+                        <a href="contact.php" class="white-btn">Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -369,7 +204,7 @@
                             <h2>We Produce the Best Door Systems</h2>
                         </div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-                        <a href="services.html" class="theme-btn mt-20">Get More Information</a>
+                        <a href="services.php" class="theme-btn mt-20">Get More Information</a>
                     </div>
                 </div>
             </div>          
@@ -381,7 +216,7 @@
                         </div>
                         <h5>Worldwide Shipping</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>                        
-                        <a href="service-details.html" class="read_more_link">
+                        <a href="service-details.php" class="read_more_link">
                             <span class="link_text">Read More</span>
                             <span class="link_icon"><i class="las la-arrow-right"></i></span>
                         </a>
@@ -394,7 +229,7 @@
                         </div>
                         <h5>Buyer Protection</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>                        
-                        <a href="service-details.html" class="read_more_link">
+                        <a href="service-details.php" class="read_more_link">
                             <span class="link_text">Read More</span>
                             <span class="link_icon"><i class="las la-arrow-right"></i></span>
                         </a>
@@ -408,7 +243,7 @@
                         </div>
                         <h5>Customer Support</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>         
-                        <a href="service-details.html" class="read_more_link">
+                        <a href="service-details.php" class="read_more_link">
                             <span class="link_text">Read More</span>
                             <span class="link_icon"><i class="las la-arrow-right"></i></span>
                         </a>               
@@ -493,98 +328,13 @@
         </div>    
     </div>
 
-    <!-- Footer Area -->
-    <footer class="footer-area">
-        <div class="container">
-            <div class="footer-up">
-                <div class="row gy-5">
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <a href="index.html" class="logo">
-                            <img src="assets/img/logo-white.png" alt="logo">
-                        </a>
-                        <p>We provide the best window & door <br> services with reliable care.
-                        </p>
-                    </div>
-                    <div class="col-lg-2 col-md-6">
-                        <h5>Office</h5>
-                        <p>Corporate Office- <br>
-                            175 24th Street, OT- 35
-                            London, UK 265
-                        </p>
-                        <div class="company-email">
-                            <a href="#">info@windox.com</a>
-                        </div>
-                        <div class="phone-number">
-                            <p>+18-4675826</p>
-                        </div>
-
-                    </div>
-                    <div class="col-lg-2 offset-lg-1 col-md-6 com-sm-12">
-                        <h5>Links</h5>
-                        <ul>
-                            <li>
-                                <a href="about.html">About</a>
-                                <a href="services.html">Services</a>
-                                <a href="portfolio-grid.html">Portfolio</a>
-                                <a href="price.html">Pricing</a>
-                                <a href="faq.html"> FAQ</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <h5>Get in Touch</h5>
-                        <ul>
-                            <li>
-                                <div class="social-area">
-                                    <a href="#"><i class="lab la-facebook-f"></i>Facebook</a>
-                                    <a href="#"><i class="lab la-instagram"></i>Instagram</a>
-                                    <a href="#"><i class="lab la-linkedin-in"></i>linkedin</a>
-                                    <a href="#"><i class="la la-skype"></i>Skype</a>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </footer>
-
-    <!-- Footer Bottom Area -->
-
-    <div class="footer-bottom">
-        <div class="container">
-            <div class="row justify-content-center align-items-center justify-content-center">
-                <div class="col-lg-6 col-md-6 col-sm-12">
-                    <p class="copyright-line">© 2025 Windox. All rights reserved.</p>
-                </div>
-                <div class="col-lg-6 col-md-6 col-xs-12 text-md-end">
-                    <p class="privacy">Privacy Policy | Terms &amp; Conditions</p>
-                </div>
-            </div>
-        </div>
-    </div>
+    <!-- footer section start -->
+    <?php include 'footer.php'; ?>
+    <!-- footer end -->
 
     <!-- Search Dropdown -->
 
-    <div class="search-popup">
-        <span class="search-back-drop"></span>
-
-        <div class="search-inner">
-            <div class="container">
-                <div class="logo">
-                    <a class="navbar-brand" href="index.html"><img src="assets/img/logo-white.png" alt=""></a>
-                </div>
-                <button class="close-search"><span class="la la-times"></span></button>
-                <form method="post" action="index.html">
-                    <div class="form-group">
-                        <input type="search" name="search-field" value="" placeholder="Type your keyword" required="">
-                        <button type="submit"><i class="fal fa-search"></i></button>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
+    
 
 
     <!-- back to top start -->
