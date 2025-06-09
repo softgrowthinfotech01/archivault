@@ -74,10 +74,10 @@
                 <div class="col-xl-6 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".2s">
                     <div class="about-img-wrap">
                         <div class="image-one wow fadeInUp" data-wow-delay=".2s">
-                            <img src="assets/img/about/about-img-2.jpg" alt="">
+                            <img src="assets/new img/door1.jpg" alt="">
                         </div>                        
                         <div class="image-two wow fadeInUp" data-wow-delay=".4s">
-                            <img src="assets/img/about/about-img-4.jpg" alt="">
+                            <img src="assets/new img/window.jpg" alt="">
                         </div> 
                                                
                     </div>

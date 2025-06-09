@@ -71,8 +71,8 @@
                             <div class="service-info">
                                 <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. 
                                 </p>                                
-                                <a href="services.html" class="dark-btn mt-20 mr-10">View All Windows</a>    
-                                <a href="services.html" class="white-btn mt-20">View All Doors</a>
+                                <a href="services" class="dark-btn mt-20 mr-10">View All Windows</a>    
+                                <a href="services" class="white-btn mt-20">View All Doors</a>
                             </div>
                                 
                         </div>
@@ -134,7 +134,7 @@
                             <h4>Parts & Accessories</h4>
                             <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                         </div>                        
-                        <a href="service-details.html" class="service-link">
+                        <a href="service-details" class="service-link">
                             <i class="las la-arrow-right"></i>
                         </a>                    
                     </div>
@@ -155,7 +155,7 @@
                         </div>
                         <h4>We produce wooden and plastic doors.</h4>
                         <p class="pt-30 pb-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non incididunt ut.</p>
-                        <a href="about.html" class="theme-btn">About Us</a>
+                        <a href="about" class="theme-btn">About Us</a>
                         <span class="contact-icon"><i class="fa-light fa-phone-volume"></i></span><span class="contact-num">0 800 555 44 33</span>
                     </div>
                 </div>
@@ -218,8 +218,8 @@
                 </div>
                 <div class="col-xl-4 col-lg-5 text-lg-end">
                     <div class="cta-btn">
-                        <a href="quote.html" class="dark-btn">Request a Quote</a>
-                        <a href="contact.html" class="white-btn">Contact Us</a>
+                        <a href="quote" class="dark-btn">Request a Quote</a>
+                        <a href="contact" class="white-btn">Contact Us</a>
                     </div>
                 </div>
             </div>
