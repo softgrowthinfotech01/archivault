@@ -82,7 +82,7 @@
                 <div class="col-xl-8 col-lg-8">
                     <div class="service-details-wrap">
                         <div class="feature-img">
-                            <img src="assets/img/services/service-feat-img.jpg" alt="">
+                            <img src="assets/img/images/img1.jpg" alt="">
                         </div>
                         <p>Mauris eu nisi eget nisi imperdiet vestibulum. Nunc sodales vehicula risus. Suspendisse id mauris sodales, blandit tortor eu, sodales justo. Morbi tincidunt, ante vel suscipit volutpat, turpis enim volutpSectetur adipiscing elit, sed do eiusm onsectetur adipiscing elit, sed do eiusm od tempor incididunt ut labore. Ut vel placerat eros, eu tincidunt velit. Consectetur adipiscing elit, adipiscing elit, sed do.</p>
                         <h5>Sed ut perspiciatis unde omnis iste natus et</h5>
@@ -91,10 +91,10 @@
                         <div class="service-details-img">
                             <div class="row gy-5">
                                 <div class="col-md-6">
-                                    <img src="assets/img/services/service-details-img-1.jpg" alt="">
+                                    <img src="assets/img/images/img2.jpg" alt="">
                                 </div>
                                 <div class="col-md-6">
-                                    <img src="assets/img/services/service-details-img-2.jpg" alt="">
+                                    <img src="assets/img/images/" alt="">
                                 </div>
                             </div>
                         </div>
@@ -124,15 +124,17 @@
                             <ul class="contact-list-item">
                                 
                                 <li> <i class="las la-map-marker"></i>
-                                    Germany — <br>
-                                    785 15h Street, Office 478 <br>
-                                    Berlin, De 81566
+                                    Beside Vinkar Sabha gruh Bhanapeth ward<br>
+                                    Chandrapur <br>
+                                    (Maharashtra)-442401
                                 </li>                                
                                 <li> <i class="las la-envelope"></i>
-                                    info@email.com
+                                    design@gmail.com
+                                    manish7443@gmail.com
                                 </li>                                
                                 <li> <i class="las la-phone"></i>
-                                    +1 840 841 25 39
+                                   1. 07172-274185 <br>
+                                   2. 9860487443
                                 </li>                                
                             </ul>
                         </div>
