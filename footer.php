@@ -4,7 +4,7 @@
             <div class="footer-up">
                 <div class="row gy-5">
                     <div class="col-lg-4 col-md-6 col-sm-12">
-                        <a href="index.html" class="logo">
+                        <a href="home" class="logo">
                             <img src="assets/img/logo-white.png" alt="logo">
                         </a>
                         <p>We provide the best window & door <br> services with reliable care.
