@@ -62,8 +62,8 @@
                                 </li> 
                                 <li><a class="navlink" href="#">Services</a>
                                     <ul class="sub-menu">
-                                        <li><a href="services.html">Services</a></li>
-                                        <li><a href="service-details.html">Service Details</a></li>
+                                        <li><a href="services">Services</a></li>
+                                        <li><a href="service-details">Service Details</a></li>
                                     </ul>
                                 </li>                               
                                 <li><a class="navlink" href="#">Our Work</a>
