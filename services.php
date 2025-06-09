@@ -94,7 +94,7 @@
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="about-img-wrap">
                         <div class="image-one text-end wow fadeInUp" data-wow-delay=".2s">
-                            <img src="assets/img/about/1-1.jpg" alt="">
+                            <img src="assets/images/door1.jpg" alt="">
                         </div>                        
                         <div class="image-two wow fadeInUp" data-wow-delay=".4s">
                             <img src="assets/img/about/1-2.jpg" alt="">
