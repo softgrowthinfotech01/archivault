@@ -7556,6 +7556,11 @@ span.form-icon.text-icon:before {
   content: "\e215";
 }
 
+
+.hero-area-banner{
+  background-image: url(new img/front.jpg);
+}
+
 /*
 
 

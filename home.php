@@ -97,7 +97,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="service-img">
-                            <img src="assets/img/services/1.jpg" alt="">
+                            <img src="assets/new img/1.jpg" alt="">
                         </div>
                         <div class="service-info">
                             <span>Best Services</span>
@@ -112,7 +112,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="service-img">
-                            <img src="assets/img/services/2.jpg" alt="">
+                            <img src="assets/new img/2.jpg" alt="">
                         </div>
                         <div class="service-info">
                             <span>Best Services</span>
@@ -127,7 +127,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="service-img">
-                            <img src="assets/img/services/3.jpg" alt="">
+                            <img src="assets/new img/3.jpg" alt="">
                         </div>
                         <div class="service-info">
                             <span>Best Services</span>
@@ -162,10 +162,10 @@
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="about-img-wrap">
                         <div class="image-one text-end wow fadeInUp" data-wow-delay=".2s">
-                            <img src="assets/img/about/1-1.jpg" alt="">
+                            <img src="assets/new img/1-1.jpg" alt="">
                         </div>                        
                         <div class="image-two wow fadeInUp" data-wow-delay=".4s">
-                            <img src="assets/img/about/1-2.jpg" alt="">
+                            <img src="assets/new img/1-2.jpg" alt="">
                         </div>                                            
                     </div>
                 </div>
