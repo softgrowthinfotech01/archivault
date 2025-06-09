@@ -324,7 +324,7 @@
     </div>
 
     <!-- Testimonial Section -->
-    <div id="testimonial-1" class="testimonial-area gray-bg section-padding pb-100">    
+    <!--    <div id="testimonial-1" class="testimonial-area gray-bg section-padding pb-100">    
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center ">
@@ -396,10 +396,10 @@
                 </div>
             </div>
         </div>    
-    </div>
+    </div>-->
 
     <!-- Blog Section -->
-    <div class="blog-section section-padding pb-90">
+   <!-- <div class="blog-section section-padding pb-90">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-6">
@@ -474,7 +474,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>--> 
 
     <!-- Contact Section -->
      <div class="contact-section section-padding" data-background="assets/img/contact-bg.jpg">
