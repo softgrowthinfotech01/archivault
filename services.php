@@ -87,7 +87,7 @@
                         </div>
                         <h4>We produce wooden and plastic doors.</h4>
                         <p class="pt-30 pb-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non incididunt ut.</p>
-                        <a href="about.html" class="theme-btn">About Us</a>
+                        <a href="about.php" class="theme-btn">About Us</a>
                         <span class="contact-icon"><i class="fa-light fa-phone-volume"></i></span><span class="contact-num">0 800 555 44 33</span>
                     </div>
                 </div>
@@ -127,7 +127,7 @@
                             <h4>Interior & Exterior Doors</h4>
                             <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                         </div>   
-                        <a href="service-details.html" class="service-link">
+                        <a href="service-details.php" class="service-link">
                             <i class="las la-arrow-right"></i>
                         </a>                                                                     
                     </div>
@@ -142,7 +142,7 @@
                             <h4>Stylish & Quality Windows</h4>
                             <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                         </div>
-                        <a href="service-details.html" class="service-link">
+                        <a href="service-details.php" class="service-link">
                             <i class="las la-arrow-right"></i>
                         </a>                                                                        
                     </div>
@@ -157,7 +157,7 @@
                             <h4>Parts & Accessories</h4>
                             <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                         </div>                        
-                        <a href="service-details.html" class="service-link">
+                        <a href="service-details.php" class="service-link">
                             <i class="las la-arrow-right"></i>
                         </a>                    
                     </div>
@@ -179,8 +179,8 @@
                 </div>
                 <div class="col-xl-4 col-lg-5 text-lg-end">
                     <div class="cta-btn">
-                        <a href="quote.html" class="dark-btn">Request a Quote</a>
-                        <a href="contact.html" class="white-btn">Contact Us</a>
+                        <a href="quote.php" class="dark-btn">Request a Quote</a>
+                        <a href="contact.php" class="white-btn">Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -204,7 +204,7 @@
                             <h2>We Produce the Best Door Systems</h2>
                         </div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-                        <a href="services.html" class="theme-btn mt-20">Get More Information</a>
+                        <a href="services.php" class="theme-btn mt-20">Get More Information</a>
                     </div>
                 </div>
             </div>          
@@ -216,7 +216,7 @@
                         </div>
                         <h5>Worldwide Shipping</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>                        
-                        <a href="service-details.html" class="read_more_link">
+                        <a href="service-details.php" class="read_more_link">
                             <span class="link_text">Read More</span>
                             <span class="link_icon"><i class="las la-arrow-right"></i></span>
                         </a>
@@ -229,7 +229,7 @@
                         </div>
                         <h5>Buyer Protection</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>                        
-                        <a href="service-details.html" class="read_more_link">
+                        <a href="service-details.php" class="read_more_link">
                             <span class="link_text">Read More</span>
                             <span class="link_icon"><i class="las la-arrow-right"></i></span>
                         </a>
@@ -243,7 +243,7 @@
                         </div>
                         <h5>Customer Support</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>         
-                        <a href="service-details.html" class="read_more_link">
+                        <a href="service-details.php" class="read_more_link">
                             <span class="link_text">Read More</span>
                             <span class="link_icon"><i class="las la-arrow-right"></i></span>
                         </a>               
@@ -340,10 +340,10 @@
         <div class="search-inner">
             <div class="container">
                 <div class="logo">
-                    <a class="navbar-brand" href="index.html"><img src="assets/img/logo-white.png" alt=""></a>
+                    <a class="navbar-brand" href="home.php"><img src="assets/img/logo-white.png" alt=""></a>
                 </div>
                 <button class="close-search"><span class="la la-times"></span></button>
-                <form method="post" action="index.html">
+                <form method="post" action="home.php">
                     <div class="form-group">
                         <input type="search" name="search-field" value="" placeholder="Type your keyword" required="">
                         <button type="submit"><i class="fal fa-search"></i></button>

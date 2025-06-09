@@ -35,7 +35,7 @@
 
                         <!-- Logo -->
                         <div class="logo">
-                            <a class="navbar-brand" href="index.html"><img src="assets/img/logo-white.png" alt=""></a>
+                            <a class="navbar-brand" href="home.php"><img src="assets/img/logo-white.png" alt=""></a>
                         </div>
 
                         <!-- Main Menu  -->
@@ -47,7 +47,7 @@
                                         <li><a href="index-2.html">Home - Doors </a></li>
                                         <li><a href="index-3.html">Home - Windows</a></li>
                                         <li><a href="index-4.html">Home - Furniture</a></li> -->
-                                        <li><a href="index-5.html">Home - Interior</a></li>
+                                        <li><a href="home">Home - Interior</a></li>
                                     </ul>
                                 </li>
                                 <li><a class="navlink" href="#">About us</a>
@@ -57,18 +57,18 @@
                                         <!-- <li><a href="team.html">Our Team</a></li>
                                         <li><a href="price.html">Pricing</a></li>
                                         <li><a href="faq.html">FAQs</a></li> -->
-                                        <li><a href="quote.html">Request a Quote</a></li>
+                                        <li><a href="quote.php">Request a Quote</a></li>
                                     </ul>
                                 </li> 
-                                <li><a class="navlink" href="#">Services</a>
+                                <li><a class="navlink" href="services.php">Services</a>
                                     <ul class="sub-menu">
-                                        <li><a href="services.html">Services</a></li>
-                                        <li><a href="service-details.html">Service Details</a></li>
+                                        <li><a href="services.php">Services</a></li>
+                                        <li><a href="service-details.php">Service Details</a></li>
                                     </ul>
                                 </li>                               
-                                <li><a class="navlink" href="#">Our Work</a>
+                                <li><a class="navlink" href="our work.php">Our Work</a>
                                     <ul class="sub-menu">
-                                        <li><a href="portfolio-standard.html">Standard</a></li>
+                                        <li><a href="portfolio-standard">Standard</a></li>
                                         <!-- <li><a href="portfolio-metro.html">Metro Fullwidth</a></li>                                        
                                         <li><a href="portfolio-grid.html">Grid</a></li>
                                         <li><a href="portfolio-list.html">List</a></li>
@@ -94,7 +94,7 @@
                                     </ul>
                                 </li> -->
 
-                                <li><a class="navlink" href="contact.html">Contact</a></li>
+                                <li><a class="navlink" href="contact.php">Contact</a></li>
                             </ul>
                         </div>
 
@@ -109,7 +109,7 @@
                                 <div class="title"><h4>1 800 458 56 97</h4></div>
                             </div>
                             <!-- Header Button -->
-                            <a href="quote.html" class="theme-btn d-none d-lg-inline-block">Request a Quote</a>
+                            <a href="quote.php" class="theme-btn d-none d-lg-inline-block">Request a Quote</a>
 
                         </div>
                         <!-- Mobile Menu -->
@@ -131,7 +131,7 @@
                                                     <li><a href="index-2.html">Home - Doors </a></li>
                                                     <li><a href="index-3.html">Home - Windows</a></li>
                                                     <li><a href="index-4.html">Home - Furniture</a></li> -->
-                                                    <li><a href="index-5.html">Home - Interior</a></li>
+                                                    <li><a href="home">Home - Interior</a></li>
                                                 </ul>
                                             </li>
                                             <li><a class="has-arrow" href="#">About us</a>
@@ -141,18 +141,18 @@
                                                     <!-- <li><a href="team.html">Our Team</a></li>
                                                     <li><a href="price.html">Pricing</a></li>
                                                     <li><a href="faq.html">FAQs</a></li> -->
-                                                    <li><a href="quote.html">Request a Quote</a></li>
+                                                    <li><a href="quote">Request a Quote</a></li>
                                                 </ul>
                                             </li>
                                             <li><a class="has-arrow" href="#">Services</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="services.html">Services</a></li>
-                                                    <li><a href="service-details.html">Service Details</a></li>
+                                                    <li><a href="services">Services</a></li>
+                                                    <li><a href="service-details">Service Details</a></li>
                                                 </ul>
                                             </li>
                                             <li><a class="has-arrow" href="#">Our Work</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="portfolio-standard.html">Standard</a></li>
+                                                    <li><a href="portfolio-standard">Standard</a></li>
                                                     <!-- <li><a href="portfolio-metro.html">Metro Fullwidth</a></li>                                        
                                                     <li><a href="portfolio-grid.html">Grid</a></li>
                                                     <li><a href="portfolio-list.html">List</a></li>
@@ -177,14 +177,14 @@
                                                     <li><a href="blog-details.html">Blog Details</a></li>
                                                 </ul>
                                             </li> -->
-                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a href="contact">Contact</a></li>
 
                                         </ul>
                                     </nav>
                                     <div class="action-bar">
                                         <a href="mailto:info@roofix.com"><i class="las la-envelope"></i>info@windox.com</a>
                                         <a href="tel:123-456-7890"><i class="fal fa-phone"></i>123-456-7890</a>
-                                        <a href="contact.html" class="theme-btn">Contact Us</a>
+                                        <a href="contact" class="theme-btn">Contact Us</a>
                                     </div>
                                 </div>
                             </div>                            
