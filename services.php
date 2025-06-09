@@ -334,24 +334,7 @@
 
     <!-- Search Dropdown -->
 
-    <div class="search-popup">
-        <span class="search-back-drop"></span>
-
-        <div class="search-inner">
-            <div class="container">
-                <div class="logo">
-                    <a class="navbar-brand" href="home.php"><img src="assets/img/logo-white.png" alt=""></a>
-                </div>
-                <button class="close-search"><span class="la la-times"></span></button>
-                <form method="post" action="home.php">
-                    <div class="form-group">
-                        <input type="search" name="search-field" value="" placeholder="Type your keyword" required="">
-                        <button type="submit"><i class="fal fa-search"></i></button>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
+    
 
 
     <!-- back to top start -->
