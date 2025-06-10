@@ -3508,6 +3508,7 @@ input[type=search]::-webkit-search-results-decoration {
 }
 #about-1 .about-img-wrap .image-one img {
   max-width: calc(100% - 150px);
+  width: 64%;
 }
 #about-1 .about-img-wrap .image-two {
   position: absolute;
@@ -3521,7 +3522,8 @@ input[type=search]::-webkit-search-results-decoration {
 }
 #about-1 .about-img-wrap .image-two img {
   max-width: calc(100% - 60px);
-  width: 57%;
+  width: 54%;
+  
 }
 
 #about-2 .about-img-wrap {

@@ -75,30 +75,30 @@
                 <div class="col-xl-8 col-lg-8">
                     <div class="service-details-wrap">
                         <div class="feature-img">
-                            <img src="assets/img/images/img1.jpg" alt="">
+                            <img src="assets/new_img/SD1.jpg" alt="">
                         </div>
-                        <p>Mauris eu nisi eget nisi imperdiet vestibulum. Nunc sodales vehicula risus. Suspendisse id mauris sodales, blandit tortor eu, sodales justo. Morbi tincidunt, ante vel suscipit volutpat, turpis enim volutpSectetur adipiscing elit, sed do eiusm onsectetur adipiscing elit, sed do eiusm od tempor incididunt ut labore. Ut vel placerat eros, eu tincidunt velit. Consectetur adipiscing elit, adipiscing elit, sed do.</p>
-                        <h5>Sed ut perspiciatis unde omnis iste natus et</h5>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-                        <p>Aliquam laoreet sed neque ac vehicula. Cras congue eros nec quam laoreet, in viverra erat bibendum. Cras turpis urna, vulputate at est vitae, posuere lobortis erat.</p>
+                        <p>As an architecture designer, I am passionate about creating spaces that are both functional and visually inspiring. I focus on blending modern design principles with practical solutions to meet the unique needs of each project. From initial concept to final execution, I strive to design environments that are sustainable, innovative, and deeply connected to the people who use them.</p>
+                        <h5>About My Work.. </h5>
+                        <p>I specialize in transforming spaces into visually striking, highly functional environments that are thoughtfully designed to reflect each client’s unique style, preferences, and lifestyle, creating interiors that feel both personal and purpose-driven.</p>
+                        <p>I create interior spaces that seamlessly combine aesthetic beauty, practical comfort, and functional design to deliver environments that truly inspire and elevate everyday living.</p>
                         <div class="service-details-img">
                             <div class="row gy-5">
                                 <div class="col-md-6">
-                                    <img src="assets/img/images/img2.jpg" alt="">
+                                    <img src="assets/new_img/SD2.jpg" alt="">
                                 </div>
                                 <div class="col-md-6">
-                                    <img src="assets/img/images/" alt="">
+                                    <img src="assets/new_img/SD3.jpg" alt="">
                                 </div>
                             </div>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-                        <h5>Aliquam quis lobortis quam</h5>
-                        <p>Curabitur pellentesque odio magna, id malesuada arcu sodales ut. Sed sed quam ut ex bibendum commodo id id magna. Aliquam sed ligula sed ante blandit volutpat. Ut bibendum, nisi et mattis vulputate, odio arcu aliquet metus, nec dapibus risus risus quis lectus.</p>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+                        <p>Interior designers create visually appealing and functional spaces by planning layouts, choosing color schemes, selecting furniture, and coordinating materials. They work closely with clients to understand their needs, transforming homes, offices, and commercial areas into personalized, comfortable environments.</p>
+                        <h5>Designs I made.. </h5>
+                        <p>As an interior designer, I have crafted a variety of designs ranging from modern minimalist homes to vibrant commercial spaces. I carefully selected color palettes, textures, and furniture to create cohesive, functional areas that enhance everyday living and elevate the overall atmosphere.</p>
+                        <p>The designs I made showcase my passion for creating spaces that tell a story. From cozy, warm interiors to sleek, contemporary layouts, each design was a unique expression of the client’s lifestyle, blending practicality with personalized style.</p>
                         <div class="service-details-img">
-                            <img src="assets/img/services/service-details-img-3.jpg" alt="">
+                            <img src="assets/new_img/SD5.jpg" alt="">
                         </div>
-                        <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.</p>
+                        <p>The designs I’ve created reflect my passion for crafting spaces that speak to individuality. Whether it’s a cozy, inviting interior or a modern, sophisticated layout, each project brings together functionality and the client’s unique personality.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4">
