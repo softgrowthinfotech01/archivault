@@ -3515,6 +3515,7 @@ input[type=search]::-webkit-search-results-decoration {
 }
 #about-1 .about-img-wrap .image-two img {
   max-width: calc(100% - 60px);
+  width: 57%;
 }
 
 #about-2 .about-img-wrap {
