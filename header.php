@@ -10,9 +10,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-8 col-lg-8">
-                    <span><i class="fa-light fa-clock"></i>Sunday - Friday: 9 am - 8 pm</span>
-                    <span><i class="fa-light fa-envelope"></i>info@example.com</span>
-                    <span><i class="fa-light fa-location-dot"></i>6391 Elgin St. Celina, 10299</span>
+                    <!-- <span><i class="fa-light fa-clock"></i>Sunday - Friday: 9 am - 8 pm</span> -->
+                    <span><i class="fa-light fa-envelope"></i>design@gmail.com</span>
+                    <span><i class="fa-light fa-location-dot"></i>Beside Vinakr Sabha gruh  
+                            Bhanapeth ward Chandrapur</span>
                 </div>
                 <div class="col-xl-4 col-lg-4 text-end">
                     <div class="social-area">
@@ -35,7 +36,7 @@
 
                         <!-- Logo -->
                         <div class="logo">
-                            <a class="navbar-brand" href="home.php"><img src="assets/img/logo-white.png" alt=""></a>
+                            <a class="navbar-brand" href="home.php"><img src="assets/new_img/logo1.png" alt=""></a>
                         </div>
 
                         <!-- Main Menu  -->
