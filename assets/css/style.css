@@ -257,6 +257,12 @@ hr {
   opacity: 0.5;
 }
 
+
+
+.hero-area{
+  background-image: url(new_img/front.jpg);
+}
+
 .section-title p {
   margin: 0;
 }
@@ -7290,7 +7296,7 @@ span.cat-item-num {
 
 /* Breadcrumb Section  */
 .breadcrumb-area {
-  background-image: url(../img/bread-bg.jpg);
+  background-image: url(../new_img/bread-bg.jpg);
 }
 
 .breadcrumb-area {

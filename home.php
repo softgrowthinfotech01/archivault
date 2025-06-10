@@ -97,7 +97,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="service-img">
-                            <img src="assets/new img/1.jpg" alt="">
+                            <img src="assets/new_img/door1.jpg" alt="">
                         </div>
                         <div class="service-info">
                             <span>Best Services</span>
@@ -112,7 +112,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="service-img">
-                            <img src="assets/new img/2.jpg" alt="">
+                            <img src="assets/new_img/window.jpg" alt="">
                         </div>
                         <div class="service-info">
                             <span>Best Services</span>
@@ -127,7 +127,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="service-img">
-                            <img src="assets/new img/3.jpg" alt="">
+                            <img src="assets/new_img/accessories.jpg" alt="">
                         </div>
                         <div class="service-info">
                             <span>Best Services</span>
@@ -162,10 +162,10 @@
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="about-img-wrap">
                         <div class="image-one text-end wow fadeInUp" data-wow-delay=".2s">
-                            <img src="assets/new img/1-1.jpg" alt="">
+                            <img src="assets/new_img/door_3.jpg" alt="">
                         </div>                        
                         <div class="image-two wow fadeInUp" data-wow-delay=".4s">
-                            <img src="assets/new img/1-2.jpg" alt="">
+                            <img src="assets/new_img/door_2.jpg" alt="">
                         </div>                                            
                     </div>
                 </div>
@@ -246,7 +246,7 @@
                     <div class="col-xl-4 col-lg-5 col-md-6 wow fadeInLeft animated" data-wow-delay="200ms">
                         <a href="portfolio-details-right-sidebar.html" class="single-portfolio-wrapper">
                             <div class="portfolio-bg">
-                                <img src="assets/img/portfolio/1-1.jpg" alt="">
+                                <img src="assets/new_img/door_4.jpg" alt="">
                             </div>
                             <div class="portfolio-details">
                                 <h5>Front Door</h5>
@@ -257,7 +257,7 @@
                     <div class="col-xl-8 col-lg-7 col-md-6 wow fadeInLeft animated" data-wow-delay="400ms">
                         <a href="portfolio-details-right-sidebar.html" class="single-portfolio-wrapper">
                             <div class="portfolio-bg">
-                                <img src="assets/img/portfolio/1-2.jpg" alt="">
+                                <img src="assets/new_img/bedroom.webp" alt="">
                             </div>
                             <div class="portfolio-details">
                                 <h5>Glazed Terrace</h5>
@@ -270,7 +270,7 @@
                     <div class="col-xl-4 col-lg-5 col-md-6 wow fadeInLeft animated" data-wow-delay="200ms">
                         <a href="portfolio-details-right-sidebar.html" class="single-portfolio-wrapper">
                             <div class="portfolio-bg">
-                                <img src="assets/img/portfolio/1-3.jpg" alt="">
+                                <img src="assets/new_img/doorhandal.jpg" alt="">
                             </div>
                             <div class="portfolio-details">
                                 <h5>Door Handles</h5>
@@ -282,7 +282,7 @@
                     <div class="col-xl-8 col-lg-7 col-md-6 wow fadeInLeft animated" data-wow-delay="400ms">
                         <a href="portfolio-details-right-sidebar.html" class="single-portfolio-wrapper">
                             <div class="portfolio-bg">
-                                <img src="assets/img/portfolio/1-4.jpg" alt="">
+                                <img src="assets/new_img/front.jpg" alt="">
                             </div>
                             <div class="portfolio-details">
                                 <h5>Office Window</h5>
