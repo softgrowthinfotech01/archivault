@@ -46,13 +46,6 @@
 
 <body>
 
-    <!-- Pre-Loader -->
-    <div id="loader"></div>
-
-    <!-- Mouse Cursor  -->
-    <div class="mouseCursor cursor-outer"></div>
-    <div class="mouseCursor cursor-inner"><span>Drag</span></div>
-
     <!--header start -->
     <?php include 'header.php'; ?>
     <!-- header end-->
