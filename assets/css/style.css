@@ -2679,7 +2679,7 @@ input[type=search]::-webkit-search-results-decoration {
 }
 
 #home-1 .hero-area-banner {
-  background-image: url(../new_img/hero-area/1.jpg);
+  background-image: url(../new/banner1.jpg);
   background-size: cover;
   background-position: center;
   background-color: #ddd;
@@ -2793,7 +2793,7 @@ input[type=search]::-webkit-search-results-decoration {
 }
 
 #home-3 .hero-area-banner {
-  background-image: url(../img/hero-area/3.jpg);
+  background-image: url(../new_img/banner2.jpg);
   background-size: cover;
   background-color: #ddd;
   color: #fff;
@@ -2903,7 +2903,7 @@ input[type=search]::-webkit-search-results-decoration {
 }
 
 #home-4 .hero-area-banner {
-  background-image: url(../img/hero-area/4-2.jpg);
+  background-image: url(../new.jpg);
   background-size: cover;
   background-color: #ddd;
   color: #fff;
@@ -7565,7 +7565,7 @@ span.form-icon.text-icon:before {
 
 
 .hero-area-banner{
-  background-image: url(../new_img/front.jpg);
+  background-image: url(assets/new_img/front.jpg);
 }
 
 /*
