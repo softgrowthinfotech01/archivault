@@ -58,7 +58,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 text-center">
                     <div class="breadcrumb-title">
-                        <h1>Portfolio - Standard</h1>
+                        <h1>Our Work</h1>
                     </div>
                     <div class="breadcrumb-icon">
                         <i class="las la-angle-down"></i>                    
