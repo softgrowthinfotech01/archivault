@@ -71,8 +71,8 @@
                             <div class="service-info">
                                 <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. 
                                 </p>                                
-                                <a href="services.html" class="dark-btn mt-20 mr-10">View All Windows</a>    
-                                <a href="services.html" class="white-btn mt-20">View All Doors</a>
+                                <a href="services" class="dark-btn mt-20 mr-10">View All Windows</a>    
+                                <a href="services" class="white-btn mt-20">View All Doors</a>
                             </div>
                                 
                         </div>
@@ -97,7 +97,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="service-img">
-                            <img src="assets/new img/1.jpg" alt="">
+                            <img src="assets/new_img/door1.jpg" alt="">
                         </div>
                         <div class="service-info">
                             <span>Best Services</span>
@@ -112,7 +112,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="service-img">
-                            <img src="assets/new img/2.jpg" alt="">
+                            <img src="assets/new_img/window.jpg" alt="">
                         </div>
                         <div class="service-info">
                             <span>Best Services</span>
@@ -127,14 +127,14 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="service-img">
-                            <img src="assets/new img/3.jpg" alt="">
+                            <img src="assets/new_img/accessories.jpg" alt="">
                         </div>
                         <div class="service-info">
                             <span>Best Services</span>
                             <h4>Parts & Accessories</h4>
                             <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                         </div>                        
-                        <a href="service-details.html" class="service-link">
+                        <a href="service-details" class="service-link">
                             <i class="las la-arrow-right"></i>
                         </a>                    
                     </div>
@@ -155,17 +155,17 @@
                         </div>
                         <h4>We produce wooden and plastic doors.</h4>
                         <p class="pt-30 pb-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non incididunt ut.</p>
-                        <a href="about.html" class="theme-btn">About Us</a>
+                        <a href="about" class="theme-btn">About Us</a>
                         <span class="contact-icon"><i class="fa-light fa-phone-volume"></i></span><span class="contact-num">0 800 555 44 33</span>
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="about-img-wrap">
                         <div class="image-one text-end wow fadeInUp" data-wow-delay=".2s">
-                            <img src="assets/new img/1-1.jpg" alt="">
+                            <img src="assets/new_img/door_3.jpg" alt="">
                         </div>                        
                         <div class="image-two wow fadeInUp" data-wow-delay=".4s">
-                            <img src="assets/new img/1-2.jpg" alt="">
+                            <img src="assets/new_img/door_2.jpg" alt="">
                         </div>                                            
                     </div>
                 </div>
@@ -218,8 +218,8 @@
                 </div>
                 <div class="col-xl-4 col-lg-5 text-lg-end">
                     <div class="cta-btn">
-                        <a href="quote.html" class="dark-btn">Request a Quote</a>
-                        <a href="contact.html" class="white-btn">Contact Us</a>
+                        <a href="quote" class="dark-btn">Request a Quote</a>
+                        <a href="contact" class="white-btn">Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -246,7 +246,7 @@
                     <div class="col-xl-4 col-lg-5 col-md-6 wow fadeInLeft animated" data-wow-delay="200ms">
                         <a href="portfolio-details-right-sidebar.html" class="single-portfolio-wrapper">
                             <div class="portfolio-bg">
-                                <img src="assets/new img/3.jpg" alt="">
+                                <img src="assets/new_img/door_4.jpg" alt="">
                             </div>
                             <div class="portfolio-details">
                                 <h5>Front Door</h5>
@@ -257,7 +257,7 @@
                     <div class="col-xl-8 col-lg-7 col-md-6 wow fadeInLeft animated" data-wow-delay="400ms">
                         <a href="portfolio-details-right-sidebar.html" class="single-portfolio-wrapper">
                             <div class="portfolio-bg">
-                                <img src="assets/new img/glazed.jpg" alt="">
+                                <img src="assets/new_img/bedroom.webp" alt="">
                             </div>
                             <div class="portfolio-details">
                                 <h5>Glazed Terrace</h5>
@@ -270,7 +270,7 @@
                     <div class="col-xl-4 col-lg-5 col-md-6 wow fadeInLeft animated" data-wow-delay="200ms">
                         <a href="portfolio-details-right-sidebar.html" class="single-portfolio-wrapper">
                             <div class="portfolio-bg">
-                                <img src="assets/new img/1-3.jpg" alt="">
+                                <img src="assets/new_img/doorhandal.jpg" alt="">
                             </div>
                             <div class="portfolio-details">
                                 <h5>Door Handles</h5>
@@ -282,7 +282,7 @@
                     <div class="col-xl-8 col-lg-7 col-md-6 wow fadeInLeft animated" data-wow-delay="400ms">
                         <a href="portfolio-details-right-sidebar.html" class="single-portfolio-wrapper">
                             <div class="portfolio-bg">
-                                <img src="assets/new img/1-4.jpg" alt="">
+                                <img src="assets/new_img/front.jpg" alt="">
                             </div>
                             <div class="portfolio-details">
                                 <h5>Office Window</h5>

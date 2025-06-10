@@ -260,7 +260,7 @@ hr {
 
 
 .hero-area{
-  background-image: url(new img/front.jpg);
+  background-image: url(new_img/front.jpg);
 }
 
 .section-title p {
@@ -7178,7 +7178,7 @@ span.cat-item-num {
 
 /* Footer Area  */
 .footer-area {
-  background: #0A0300;
+  background-image: url(../new_img/footer.jpg);
   color: #fff;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -7564,7 +7564,7 @@ span.form-icon.text-icon:before {
 
 
 .hero-area-banner{
-  background-image: url(new img/front.jpg);
+  background-image: url(../new_img/front.jpg);
 }
 
 /*
