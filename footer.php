@@ -5,22 +5,26 @@
                 <div class="row gy-5">
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <a href="home" class="logo">
-                            <img src="assets/img/logo-white.png" alt="logo">
+                            <img src="assets/new_img/logo1.png" alt="logo">
                         </a>
                         <p>We provide the best window & door <br> services with reliable care.
                         </p>
                     </div>
                     <div class="col-lg-2 col-md-6">
                         <h5>Office</h5>
-                        <p>Corporate Office- <br>
-                            175 24th Street, OT- 35
-                            London, UK 265
+                        <p>Beside Vinakr Sabha gruh  
+                            Bhanapeth ward Chandrapur,
+                            (Maharashtra)-442401
                         </p>
                         <div class="company-email">
-                            <a href="#">info@windox.com</a>
+                            <h5>Email</h5>
+                            <!-- <a href="#">manish7443@gmail.com <br> -->
+                                        desgin@gmail.com</a>
                         </div>
                         <div class="phone-number">
-                            <p>+18-4675826</p>
+                            <h5>Phone no.</h5>
+                            <p>07172-274185 <br>
+                               9860487443</p>
                         </div>
 
                     </div>
@@ -30,9 +34,9 @@
                             <li>
                                 <a href="about.html">About</a>
                                 <a href="services.html">Services</a>
-                                <a href="portfolio-grid.html">Portfolio</a>
+                                <a href="portfolio-grid.html">Our Work</a>
                                 <a href="price.html">Pricing</a>
-                                <a href="faq.html"> FAQ</a>
+                                <!-- <a href="faq.html"> FAQ</a> -->
                             </li>
                         </ul>
                     </div>
