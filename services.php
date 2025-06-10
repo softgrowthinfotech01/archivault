@@ -91,7 +91,7 @@
                             <img src="assets/new_img/door2.jpg" alt="">
                         </div>                        
                         <div class="image-two wow fadeInUp" data-wow-delay=".4s">
-                            <img src="assets/new_img/door3." alt="">
+                            <img src="assets/new_img/door_5.jpg" alt="">
                         </div>                                            
                     </div>
                 </div>
