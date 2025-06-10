@@ -88,10 +88,10 @@
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="about-img-wrap">
                         <div class="image-one text-end wow fadeInUp" data-wow-delay=".2s">
-                            <img src="assets/new_img/door2.jpg" alt="">
+                            <img src="assets/new_img/d1.jpg" alt="">
                         </div>                        
                         <div class="image-two wow fadeInUp" data-wow-delay=".4s">
-                            <img src="assets/new_img/door_5.jpg" alt="">
+                            <img src="assets/new_img/d2.jpg" alt="">
                         </div>                                            
                     </div>
                 </div>
@@ -114,12 +114,12 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="service-img">
-                            <img src="assets/img/services/1.jpg" alt="">
+                            <img src="assets/new_img/d3.webp" alt="">
                         </div>
                         <div class="service-info">
                             <span>Best Services</span>
                             <h4>Interior & Exterior Doors</h4>
-                            <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                            <p>Premium interior and exterior doors designed for lasting beauty, security, and perfect style.</p>
                         </div>   
                         <a href="service-details.php" class="service-link">
                             <i class="las la-arrow-right"></i>
@@ -129,12 +129,12 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="service-img">
-                            <img src="assets/img/services/2.jpg" alt="">
+                            <img src="assets/new_img/w3.webp" alt="">
                         </div>
                         <div class="service-info">
                             <span>Best Services</span>
                             <h4>Stylish & Quality Windows</h4>
-                            <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                            <p>Enhance your space with stylish, high-quality windows built for beauty and durability.</p>
                         </div>
                         <a href="service-details.php" class="service-link">
                             <i class="las la-arrow-right"></i>
@@ -144,12 +144,12 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="service-img">
-                            <img src="assets/img/services/3.jpg" alt="">
+                            <img src="assets/new_img/3.jpg" alt="">
                         </div>
                         <div class="service-info">
                             <span>Best Services</span>
                             <h4>Parts & Accessories</h4>
-                            <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                            <p>High-quality parts and accessories designed for perfect fit, performance, and durability.</p>
                         </div>                        
                         <a href="service-details.php" class="service-link">
                             <i class="las la-arrow-right"></i>
@@ -187,8 +187,8 @@
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-6 order-2 order-md-1">
                     <div class="feature-img-wrap">                        
-                        <img src="assets/img/feature/1.jpg" alt="">
-                        <img src="assets/img/feature/2.jpg" alt="">                        
+                        <img src="assets/new_img/w4.jpg" alt="">
+                        <img src="assets/new_img/lock.jpeg" alt="">                        
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 order-1 order-md-2">
@@ -197,7 +197,7 @@
                             <h6>Premium Quality</h6>
                             <h2>We Produce the Best Door Systems</h2>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                        <p>We provide the best door systems designed for superior security, smooth operation, and elegant style.</p>
                         <a href="services.php" class="theme-btn mt-20">Get More Information</a>
                     </div>
                 </div>
