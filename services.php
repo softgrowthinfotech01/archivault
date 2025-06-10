@@ -79,18 +79,19 @@
                             <h2>We Produce and Install Quality Doors & Windows</h2>
                         </div>
                         <h4>We produce wooden and plastic doors.</h4>
-                        <p class="pt-30 pb-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non incididunt ut.</p>
+                        <p class="pt-30 pb-30">Transforming homes with high-quality, durable, and stylish doors and windows that offer lasting beauty, security, and performance..</p>
                         <a href="about.php" class="theme-btn">About Us</a>
-                        <span class="contact-icon"><i class="fa-light fa-phone-volume"></i></span><span class="contact-num">0 800 555 44 33</span>
+                        <span class="contact-icon"><i class="fa-light fa-phone-volume"></i></span><span class="contact-num">07172-274185 <br>
+                                                                                                                            9860487443</span>
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="about-img-wrap">
                         <div class="image-one text-end wow fadeInUp" data-wow-delay=".2s">
-                            <img src="assets/images/door1.jpg" alt="">
+                            <img src="assets/new_img/door2.jpg" alt="">
                         </div>                        
                         <div class="image-two wow fadeInUp" data-wow-delay=".4s">
-                            <img src="assets/img/about/1-2.jpg" alt="">
+                            <img src="assets/new_img/door3." alt="">
                         </div>                                            
                     </div>
                 </div>
