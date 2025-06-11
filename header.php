@@ -54,7 +54,7 @@
                                 <li><a class="navlink" href="#">About us</a>
                                     <ul class="sub-menu">
                                         <li><a href="about">About Us</a></li>
-                                        <li><a href="services">Our Services</a></li>                                        
+                                        <!-- <li><a href="services">Our Services</a></li>                                         -->
                                         <!-- <li><a href="team.html">Our Team</a></li>
                                         <li><a href="price.html">Pricing</a></li>
                                         <li><a href="faq.html">FAQs</a></li> -->
@@ -68,8 +68,8 @@
                                     </ul>
                                 </li>                               
                                 <li><a class="navlink" href="our work.php">Our Work</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="portfolio-standard">Standard</a></li>
+                                    <!-- <ul class="sub-menu"> -->
+                                        <!-- <li><a href="portfolio-standard">Standard</a></li> -->
                                         <!-- <li><a href="portfolio-metro.html">Metro Fullwidth</a></li>                                        
                                         <li><a href="portfolio-grid.html">Grid</a></li>
                                         <li><a href="portfolio-list.html">List</a></li>
@@ -85,7 +85,7 @@
                                                 <li><a href="portfolio-details-gallery.html">Gallery</a></li>
                                             </ul>
                                         </li> -->
-                                    </ul>
+                                    <!-- </ul> -->
                                 </li>
                                 <!-- <li><a class="navlink" href="#">Blog</a>
                                     <ul class="sub-menu">
