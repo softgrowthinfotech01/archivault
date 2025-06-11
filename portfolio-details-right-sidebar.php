@@ -79,7 +79,7 @@
                         </div>
                         <div class="project-details-content">
                             <h3>Sliding Wooden Doors</h3>
-                            <p>Aenean interdum purus vitae purus laoreet, eu egestas augue dictum. Nunc tincidunt felis ullamcorper dolor euismod porttitor at tincidunt arcu. Ut molestie cursus sapien, a auctor quam viverra ac. Sed non blandit mi. Proin pharetra dui in molestie sollicitudin. Vivamus ornare lorem in tempus facilisis. Quisque tristique erat interdum augue sodales fringilla.</p>                            
+                            <p>Sliding wooden doors offer a perfect blend of style and functionality, adding warmth and elegance to any space. They are space-saving, easy to operate, and beautifully crafted to enhance both modern and traditional interiors.</p>                            
                         </div>
                         <div class="project-image-gallery">
                             <div class="row">
@@ -94,7 +94,7 @@
                                 </div>
                             </div>
                         </div>
-                        <p class="mt-30"> Phasellus euismod, dolor at efficitur condimentum, neque nulla viverra lectus, varius bibendum quam sapien dignissim mi. Maecenas rhoncus leo turpis, sit amet aliquet lectus viverra sed. Aliquam sodales commodo imperdiet. Morbi tincidunt ante interdum urna commodo tempor vitae id orci. Suspendisse id orci ut erat convallis iaculis luctus vel diam. Donec felis eros, consectetur sed ornare quis, ultrices a libero. Vestibulum consectetur purus id libero euismod maximus.</p>
+                        <p class="mt-30"> Good quality wooden doors and stylish interiors bring a perfect blend of durability, beauty, and warmth to your space. Crafted with precision, they add timeless charm, enhance the overall design, and create a welcoming atmosphere that complements both modern and classic styles effortlessly.</p>
                     </div>
                 </div>
                 <!-- <div class="col-xl-5 col-lg-5">
