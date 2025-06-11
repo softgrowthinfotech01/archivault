@@ -76,9 +76,9 @@
                     <div class="about-content-wrap">
                         <div class="section-title">
                             <h6>Quality Services</h6>
-                            <h2>We Produce and Install Quality Doors & Windows</h2>
+                            <h2>Expert Interior Design and 3D Visualization</h2>
                         </div>
-                        <h4>We produce wooden and plastic doors.</h4>
+                        <h4>We building planning designing, interior designing </h4>
                         <p class="pt-30 pb-30">Transforming homes with high-quality, durable, and stylish doors and windows that offer lasting beauty, security, and performance..</p>
                         <a href="about.php" class="theme-btn">About Us</a>
                         <span class="contact-icon"><i class="fa-light fa-phone-volume"></i></span><span class="contact-num">07172-274185 <br>
