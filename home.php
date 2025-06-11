@@ -62,7 +62,7 @@
                     <div class="row align-items-end">
                         <div class="col-xl-8 col-lg-7 wow fadeInUp animated" data-wow-delay="200ms">
                             <div class="section-title mb-0">
-                                <h1>Make your vision<br>  of Home come <br>  true with us..
+                                <h1>Windows & Doors <br> That Ensure Safety <br> and Comfort 
                                 </h1>                                
                             </div>                                                        
                         </div>
@@ -478,7 +478,7 @@
     </div>--> 
 
     <!-- Contact Section -->
-     <div class="contact-section section-padding" data-background="assets/new/front.jpg">
+     <div class="contact-section section-padding" data-background="assets/new/tree.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-4"></div>
