@@ -90,7 +90,7 @@
                                     <img src="assets/new/d5.jpg" alt="">
                                 </div>
                                 <div class="col-12 mt-30">
-                                    <img src="assets/new/d7.jpg" alt="">
+                                    <img src="assets/new/d7.jpg" alt="" width="98%">
                                 </div>
                             </div>
                         </div>
