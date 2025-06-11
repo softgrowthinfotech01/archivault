@@ -68,7 +68,8 @@
                                     </ul>
                                 </li>                               
                                 <li><a class="navlink" href="our work.php">Our Project</a>
-                                    <!-- <ul class="sub-menu"> -->
+                                    <ul class="sub-menu">
+                                        <li><a href="portfolio-details-right-sidebar">Right Sidebar</a></li>
                                         <!-- <li><a href="portfolio-standard">Standard</a></li> -->
                                         <!-- <li><a href="portfolio-metro.html">Metro Fullwidth</a></li>                                        
                                         <li><a href="portfolio-grid.html">Grid</a></li>
@@ -85,7 +86,7 @@
                                                 <li><a href="portfolio-details-gallery.html">Gallery</a></li>
                                             </ul>
                                         </li> -->
-                                    <!-- </ul> -->
+                                    </ul>
                                 </li>
                                 <!-- <li><a class="navlink" href="#">Blog</a>
                                     <ul class="sub-menu">
