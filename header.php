@@ -67,7 +67,7 @@
                                         <li><a href="service-details">Service Details</a></li>
                                     </ul>
                                 </li>                               
-                                <li><a class="navlink" href="our work.php">Our Work</a>
+                                <li><a class="navlink" href="our work.php">Our Project</a>
                                     <!-- <ul class="sub-menu"> -->
                                         <!-- <li><a href="portfolio-standard">Standard</a></li> -->
                                         <!-- <li><a href="portfolio-metro.html">Metro Fullwidth</a></li>                                        

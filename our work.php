@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 
-    <title>Portfolio - Standard | Windox | Window & Door Services HTML Template</title>
+    <title>Archivault | Our Project</title>
 
     <!--Favicon-->
     <link rel="icon" href="assets/img/favicon.png" type="image/png">
@@ -58,7 +58,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 text-center">
                     <div class="breadcrumb-title">
-                        <h1>Our Work</h1>
+                        <h1>Project</h1>
                     </div>
                     <div class="breadcrumb-icon">
                         <i class="las la-angle-down"></i>                    
@@ -75,7 +75,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <a href="portfolio-details-right-sidebar.html" class="single-project-wrapper">
                         <div class="project-img">
-                            <img src="assets/new/modernkitchen.jpg" alt="">
+                            <img src="assets/new_img/modernkitchen.jpg" alt="">
                         </div>
                         <div class="project-title">
                             <h3>Modern Kitchen</h3>
@@ -87,7 +87,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <a href="portfolio-details-right-sidebar.html" class="single-project-wrapper">
                         <div class="project-img">
-                            <img src="assets/new/yc.jpg" alt="">
+                            <img src="assets/new_img/yc.jpg" alt="">
                         </div>
                         <div class="project-title">
                             <h3>Yellow Cabinetry</h3>
@@ -99,7 +99,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <a href="portfolio-details-right-sidebar.html" class="single-project-wrapper">
                         <div class="project-img">
-                            <img src="assets/new/contemporary.jpg" alt="">
+                            <img src="assets/new_img/contemporary.jpg" alt="">
                         </div>
                         <div class="project-title">
                             <h3>Contemporary Kitchen</h3>
@@ -111,7 +111,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <a href="portfolio-details-right-sidebar.html" class="single-project-wrapper">
                         <div class="project-img">
-                            <img src="assets/new/custom.jpg" alt="">
+                            <img src="assets/new_img/custom.jpg" alt="">
                         </div>
                         <div class="project-title">
                             <h3>Custom Kitchen Table</h3>
@@ -123,7 +123,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <a href="portfolio-details-right-sidebar.html" class="single-project-wrapper">
                         <div class="project-img">
-                            <img src="assets/new/lightkitchen.jpg" alt="">
+                            <img src="assets/new_img/lightkitchen.jpg" alt="">
                         </div>
                         <div class="project-title">
                             <h3>Light Kitchen Interior</h3>
@@ -135,7 +135,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <a href="portfolio-details-right-sidebar.html" class="single-project-wrapper">
                         <div class="project-img">
-                            <img src="assets/new/bk.jpg" alt="">
+                            <img src="assets/new_img/bk.jpg" alt="">
                         </div>
                         <div class="project-title">
                             <h3>Matte Black Kitchen</h3>
