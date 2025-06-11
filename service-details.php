@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 
-    <title>Service Details | Windox | Window & Door Services HTML Template</title>
+    <title>Archivault | Service Details </title>
 
     <!--Favicon-->
     <link rel="icon" href="assets/img/favicon.png" type="image/png">

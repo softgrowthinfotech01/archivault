@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 
-    <title>Home-1 | Windox | Window & Door Services HTML Template</title>
+    <title>Archivault | Home </title>
 
     <!--Favicon-->
     <link rel="icon" href="assets/img/favicon.png" type="image/png">
@@ -213,7 +213,7 @@
                 <div class="col-xl-8 col-lg-7">
                     <div class="cta-title">
                         <div class="section-title">
-                            <h3>Schedule a Free Consultation for <br> Window and Door Replacement</h3>
+                            <h3>Schedule a Free Consultation to  <br> make your dream home..</h3>
                         </div>
                     </div>
                 </div>

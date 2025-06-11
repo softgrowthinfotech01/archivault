@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 
-    <title>Portfolio - Standard | Windox | Window & Door Services HTML Template</title>
+    <title>Archivault | Our Project</title>
 
     <!--Favicon-->
     <link rel="icon" href="assets/img/favicon.png" type="image/png">
@@ -58,7 +58,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 text-center">
                     <div class="breadcrumb-title">
-                        <h1>Our Work</h1>
+                        <h1>Project</h1>
                     </div>
                     <div class="breadcrumb-icon">
                         <i class="las la-angle-down"></i>                    
@@ -146,6 +146,62 @@
             </div>
         </div>
     </div>
+    <!-- How we work start -->
+          <section class="how-we-work-area ptb-100">
+            <div class="container">
+                <div class="section-title">
+                    <span class="sub-title">How We Work</span>
+                    <h2>Proven Process for the Best <span>Result</span></h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                </div>
+
+                <div class="how-we-work-process">
+                    <div class="process-list">
+                        <div class="single-process">
+                            <div class="content bg-1">
+                                <div class="number">
+                                    1
+                                </div>
+                                <h3>Concept</h3>
+                                <p>Lorem ipsum dolor sit met, consecte adipiscing, sed do eiusmod tempor.</p>
+                            </div>
+                        </div>
+
+                        <div class="single-process">
+                            <div class="content bg-2">
+                                <div class="number">
+                                    2
+                                </div>
+                                <h3>Idea</h3>
+                                <p>Lorem ipsum dolor sit met, consecte adipiscing, sed do eiusmod tempor.</p>
+                            </div>
+                        </div>
+
+                        <div class="single-process">
+                            <div class="content bg-3">
+                                <div class="number">
+                                    3
+                                </div>
+                                <h3>Design</h3>
+                                <p>Lorem ipsum dolor sit met, consecte adipiscing, sed do eiusmod tempor.</p>
+                            </div>
+                        </div>
+
+                        <div class="single-process">
+                            <div class="content bg-4">
+                                <div class="number">
+                                    4
+                                </div>
+                                <h3>Execution</h3>
+                                <p>Lorem ipsum dolor sit met, consecte adipiscing, sed do eiusmod tempor.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+                               
+    <!-- How we work end -->
 
     <!-- footer section start -->
     <?php include 'footer.php'; ?>
