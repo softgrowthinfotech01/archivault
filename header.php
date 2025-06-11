@@ -12,7 +12,7 @@
                 <div class="col-xl-8 col-lg-8">
                     <!-- <span><i class="fa-light fa-clock"></i>Sunday - Friday: 9 am - 8 pm</span> -->
                     <span><i class="fa-light fa-envelope"></i>design@gmail.com</span>
-                    <span><i class="fa-light fa-location-dot"></i>Beside Vinakr Sabha gruh  
+                    <span><i class="fa-light fa-location-dot"></i>Beside Vinkar Sabha gruh  
                             Bhanapeth ward Chandrapur</span>
                 </div>
                 <div class="col-xl-4 col-lg-4 text-end">

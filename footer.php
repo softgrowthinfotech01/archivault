@@ -12,7 +12,7 @@
                     </div>
                     <div class="col-lg-2 col-md-6">
                         <h5>Office</h5>
-                        <p>Beside Vinakr Sabha gruh  
+                        <p>Beside Vinkar Sabha gruh  
                             Bhanapeth ward Chandrapur,
                             (Maharashtra)-442401
                         </p>
@@ -41,7 +41,7 @@
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
-                        <h5>Get in Touch</h5>
+                        <h5>Connect With Us</h5>
                         <ul>
                             <li>
                                 <div class="social-area">

@@ -99,7 +99,7 @@
                         <div class="section-title">
                             <h6>Contact Us</h6>
                             <div class="heading-animation">
-                                <h2>Get in <span>Touch</span></h2>
+                                <h2>Connect <span> with us</span></h2>
                             </div>
                         </div>
                         <p>Contact us today — we’re here to help, collaborate, and bring your ideas to life.</p>               
