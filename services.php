@@ -114,12 +114,12 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="service-img">
-                            <img src="assets/new/d3.webp" alt="">
+                            <img src="assets/new/a1.jpg" alt="">
                         </div>
                         <div class="service-info">
                             <span>Best Services</span>
-                            <h4>Interior & Exterior Doors</h4>
-                            <p>Premium interior and exterior doors designed for lasting beauty, security, and perfect style.</p>
+                            <h4>Building Planning Designing</h4>
+                            <p>We offer complete building planning and designing solutions, ensuring smart, efficient, and visually appealing spaces.</p>
                         </div>   
                         <a href="service-details.php" class="service-link">
                             <i class="las la-arrow-right"></i>
@@ -129,12 +129,12 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="service-img">
-                            <img src="assets/new/w3.webp" alt="">
+                            <img src="assets/new/a2.jpg" alt="">
                         </div>
                         <div class="service-info">
                             <span>Best Services</span>
-                            <h4>Stylish & Quality Windows</h4>
-                            <p>Enhance your space with stylish, high-quality windows built for beauty and durability.</p>
+                            <h4>Interior Designing</h4>
+                            <p>We create beautiful, functional interiors that reflect your unique style and personality.</p>
                         </div>
                         <a href="service-details.php" class="service-link">
                             <i class="las la-arrow-right"></i>
@@ -144,12 +144,12 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="service-img">
-                            <img src="assets/new/3.jpg" alt="">
+                            <img src="assets/new/a3.jpg" alt="">
                         </div>
                         <div class="service-info">
                             <span>Best Services</span>
-                            <h4>Parts & Accessories</h4>
-                            <p>High-quality parts and accessories designed for perfect fit, performance, and durability.</p>
+                            <h4>3D Visualization</h4>
+                            <p>Bringing your ideas to life with detailed and realistic 3D visualization.</p>
                         </div>                        
                         <a href="service-details.php" class="service-link">
                             <i class="las la-arrow-right"></i>
