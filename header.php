@@ -36,7 +36,7 @@
 
                         <!-- Logo -->
                         <div class="logo">
-                            <a class="navbar-brand" href="home.php"><img src="assets/new_img/logo1.png" alt=""></a>
+                            <a class="navbar-brand" href="home.php"><img src="assets/new/logo1.png" alt=""></a>
                         </div>
 
                         <!-- Main Menu  -->

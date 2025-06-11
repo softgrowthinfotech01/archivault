@@ -5,7 +5,7 @@
                 <div class="row gy-5">
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <a href="home" class="logo">
-                            <img src="assets/new_img/logo1.png" alt="logo">
+                            <img src="assets/new/logo1.png" alt="logo">
                         </a>
                         <p>We provide the best window & door <br> services with reliable care.
                         </p>
