@@ -100,9 +100,9 @@
                             <img src="assets/new/door1.jpg" alt="">
                         </div>
                         <div class="service-info">
-                            <span>Best Services</span>
+                            <span> Doors</span>
                             <h4>Interior & Exterior Doors</h4>
-                            <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                            <p>Premium interior and exterior doors designed for style, privacy, and security.</p>
                         </div>   
                         <a href="service-details.php" class="service-link">
                             <i class="las la-arrow-right"></i>
@@ -115,9 +115,9 @@
                             <img src="assets/new/window.jpg" alt="">
                         </div>
                         <div class="service-info">
-                            <span>Best Services</span>
+                            <span>Windows</span>
                             <h4>Stylish & Quality Windows</h4>
-                            <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                            <p>Beautifully designed windows that combine style, strength, and energy efficiency</p>
                         </div>
                         <a href="service-details.php" class="service-link">
                             <i class="las la-arrow-right"></i>
@@ -130,9 +130,9 @@
                             <img src="assets/new/accessories.jpg" alt="">
                         </div>
                         <div class="service-info">
-                            <span>Best Services</span>
+                            <span>Accessories</span>
                             <h4>Parts & Accessories</h4>
-                            <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                            <p>High-quality components and accessories designed to enhance performance, durability, and style.</p>
                         </div>                        
                         <a href="service-details" class="service-link">
                             <i class="las la-arrow-right"></i>
@@ -151,10 +151,11 @@
                     <div class="about-content-wrap">
                         <div class="section-title">
                             <h6>Wooden doors</h6>
-                            <h2>We Produce & Install Quality Doors</h2>
+                            <h2>Manufacturing and fitting durable, stylish doors.</h2>
                         </div>
-                        <h4>We produce wooden and plastic doors.</h4>
-                        <p class="pt-30 pb-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non incididunt ut.</p>
+                        <h4>"We specialize in crafting high-quality wooden and plastic doors"</h4>
+                        <p class="pt-30 pb-30">designed to suit both interior and exterior spaces.Our doors combine strength, style, and functionality, crafted with precision and quality materials.
+               Ideal for homes, offices, and commercial use.</p>
                         <a href="about" class="theme-btn">About Us</a>
                         <span class="contact-icon"><i class="fa-light fa-phone-volume"></i></span><span class="contact-num">0 800 555 44 33</span>
                     </div>
@@ -165,7 +166,7 @@
                             <img src="assets/new/door7.jpg" alt="">
                         </div>                        
                         <div class="image-two wow fadeInUp" data-wow-delay=".4s">
-                            <img src="assets/new_img/door8.jpg" alt="">
+                            <img src="assets/new/glazed.jpg" alt="">
                         </div>                                            
                     </div>
                 </div>
@@ -237,7 +238,7 @@
                     </div>
                 </div>
                 <div class="col-xl-7 col-lg-7 col-md-7">
-                    <p class="pl-90 mb-0">Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernaturaut odit aut fugit, sed quia consequuntur. Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.</p>
+                    <p class="pl-90 mb-0">We designed, produced, and installed high-quality wooden and plastic doors, ensuring a perfect fit and modern look. Our work focused on durability, style, and smooth installation, delivering results that met client expectations on time.</p>
                 </div>
                 
             </div>
@@ -477,7 +478,7 @@
     </div>--> 
 
     <!-- Contact Section -->
-     <div class="contact-section section-padding" data-background="assets/new_img/french-doors.jpg">
+     <div class="contact-section section-padding" data-background="assets/new/front.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-4"></div>
