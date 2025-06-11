@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 
-    <title>Archivault | Home </title>
+    <title>He</title>
 
     <!--Favicon-->
     <link rel="icon" href="assets/img/favicon.png" type="image/png">
@@ -62,7 +62,7 @@
                     <div class="row align-items-end">
                         <div class="col-xl-8 col-lg-7 wow fadeInUp animated" data-wow-delay="200ms">
                             <div class="section-title mb-0">
-                                <h1>Windows & Doors <br> That Ensure Safety <br> and Comfort 
+                                <h1>Lets together open <br> a vault of your <br>  dream home... 
                                 </h1>                                
                             </div>                                                        
                         </div>
@@ -151,7 +151,7 @@
                     <div class="about-content-wrap">
                         <div class="section-title">
                             <h6>Wooden doors</h6>
-                            <h2>Manufacturing and fitting durable, stylish doors.</h2>
+                            <h2>Warm, inviting interiors that feel like home.</h2>
                         </div>
                         <h4>"We specialize in crafting high-quality wooden and plastic doors"</h4>
                         <p class="pt-30 pb-30">designed to suit both interior and exterior spaces.Our doors combine strength, style, and functionality, crafted with precision and quality materials.
@@ -213,7 +213,7 @@
                 <div class="col-xl-8 col-lg-7">
                     <div class="cta-title">
                         <div class="section-title">
-                            <h3>Schedule a Free Consultation to  <br> make your dream home..</h3>
+                            <h3>Schedule a Free Consultation for <br> Window and Door Replacement</h3>
                         </div>
                     </div>
                 </div>
