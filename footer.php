@@ -5,14 +5,14 @@
                 <div class="row gy-5">
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <a href="home" class="logo">
-                            <img src="assets/new_img/logo1.png" alt="logo">
+                            <img src="assets/new/logo1.png" alt="logo">
                         </a>
                         <p>We provide the best window & door <br> services with reliable care.
                         </p>
                     </div>
                     <div class="col-lg-2 col-md-6">
                         <h5>Office</h5>
-                        <p>Beside Vinakr Sabha gruh  
+                        <p>Beside Vinkar Sabha gruh  
                             Bhanapeth ward Chandrapur,
                             (Maharashtra)-442401
                         </p>
@@ -41,7 +41,7 @@
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
-                        <h5>Get in Touch</h5>
+                        <h5>Connect With Us</h5>
                         <ul>
                             <li>
                                 <div class="social-area">

@@ -487,7 +487,7 @@
                         <div class="contact-form-inner">
                             <div class="section-title">
                                 <h6>Contact Us</h6>
-                                <h2>Have Questions? Get in Touch!</h2>
+                                <h2>Have Questions? Connect With Us!</h2>
                             </div>
                             <form>
                                 <div class="row">
@@ -504,7 +504,7 @@
                                         <input type="text" placeholder="Select Residence">
                                     </div>
                                     <div class="col-12">
-                                        <input type="submit" value="Get In Touch">
+                                        <input type="submit" value="Connect With Us">
                                     </div>
                                 </div>
                             </form>

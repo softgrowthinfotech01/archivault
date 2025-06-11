@@ -7182,7 +7182,7 @@ span.cat-item-num {
 
 /* Footer Area  */
 .footer-area {
-  background-image: url(../new_img/footer.jpg);
+  background-image: url(../new/footer.jpg);
   color: #fff;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -7299,7 +7299,7 @@ span.cat-item-num {
 
 /* Breadcrumb Section  */
 .breadcrumb-area {
-  background-image: url(../new_img/bread-bg.jpg);
+  background-image: url(../new/bread-bg.jpg);
 }
 
 .breadcrumb-area {

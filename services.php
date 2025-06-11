@@ -88,10 +88,10 @@
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="about-img-wrap">
                         <div class="image-one text-end wow fadeInUp" data-wow-delay=".2s">
-                            <img src="assets/new_img/d1.jpg" alt="">
+                            <img src="assets/new/d1.jpg" alt="">
                         </div>                        
                         <div class="image-two wow fadeInUp" data-wow-delay=".4s">
-                            <img src="assets/new_img/d2.jpg" alt="">
+                            <img src="assets/new/d2.jpg" alt="">
                         </div>                                            
                     </div>
                 </div>
@@ -114,7 +114,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="service-img">
-                            <img src="assets/new_img/d3.webp" alt="">
+                            <img src="assets/new/d3.webp" alt="">
                         </div>
                         <div class="service-info">
                             <span>Best Services</span>
@@ -129,7 +129,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="service-img">
-                            <img src="assets/new_img/w3.webp" alt="">
+                            <img src="assets/new/w3.webp" alt="">
                         </div>
                         <div class="service-info">
                             <span>Best Services</span>
@@ -144,7 +144,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single-service-wrap">
                         <div class="service-img">
-                            <img src="assets/new_img/3.jpg" alt="">
+                            <img src="assets/new/3.jpg" alt="">
                         </div>
                         <div class="service-info">
                             <span>Best Services</span>
@@ -187,8 +187,8 @@
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-6 order-2 order-md-1">
                     <div class="feature-img-wrap">                        
-                        <img src="assets/new_img/w4.jpg" alt="">
-                        <img src="assets/new_img/lock.jpeg" alt="">                        
+                        <img src="assets/new/w4.jpg" alt="">
+                        <img src="assets/new/lock.jpeg" alt="">                        
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 order-1 order-md-2">

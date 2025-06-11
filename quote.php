@@ -76,17 +76,19 @@
                     <div class="quote-content-wrap">
                         <div class="section-title">
                             <h6>what we do</h6>
-                            <h2>We Make & Install Quality Doors</h2>
+                            <h2>We create the Best Design for your Dream Home..</h2>
                         </div>
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta.</p>
+                        <p>We create the best designs for your home, combining beauty, comfort, and functionality. Every space is thoughtfully planned to reflect your style, maximize comfort, and bring a unique, timeless charm to your living environment.</p>
                         <div class="contact-info mt-60">
                             <div>
                                 <span class="contact-icon"><i class="fa-light fa-envelope"></i></span>
-                                <span class="contact-num">info@yoursite.com</span>
+                                <span class="contact-num">design@gmail.com  <br>
+                                                         manish7443@gmail.com</span>
                             </div>
                             <div class="mt-20">
                                 <span class="contact-icon"><i class="fa-light fa-phone-volume"></i></span>
-                                <span class="contact-num">0 800 555 44 33</span>
+                                <span class="contact-num">9860487443 <br>
+                                                          07172-274185</span>
                             </div>
                         </div>
                     </div>
@@ -99,8 +101,8 @@
                                 <span class="form-icon phone-icon"></span><span class="form-control-wrap"><input type="text" placeholder="Phone"></span>
                                 <span class="form-icon email-icon"></span><span class="form-control-wrap"><input type="email" placeholder="Email"></span>
                                 <span class="form-icon subject-icon"></span><span class="form-control-wrap"><input type="text" placeholder="Subject"></span>
-                                <span class="form-icon text-icon"></span><span class="form-control-wrap"><textarea name="message" id="message" placeholder="How can we help you? Feel free to get in touch!"></textarea></span>
-                                <input type="submit" value="Get in Touch">
+                                <span class="form-icon text-icon"></span><span class="form-control-wrap"><textarea name="message" id="message" placeholder="How can we help you?"></textarea></span>
+                                <input type="submit" value="Connect With Us">
                             </form>
                         </div>
                     </div>

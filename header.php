@@ -12,7 +12,7 @@
                 <div class="col-xl-8 col-lg-8">
                     <!-- <span><i class="fa-light fa-clock"></i>Sunday - Friday: 9 am - 8 pm</span> -->
                     <span><i class="fa-light fa-envelope"></i>design@gmail.com</span>
-                    <span><i class="fa-light fa-location-dot"></i>Beside Vinakr Sabha gruh  
+                    <span><i class="fa-light fa-location-dot"></i>Beside Vinkar Sabha gruh  
                             Bhanapeth ward Chandrapur</span>
                 </div>
                 <div class="col-xl-4 col-lg-4 text-end">
@@ -36,7 +36,7 @@
 
                         <!-- Logo -->
                         <div class="logo">
-                            <a class="navbar-brand" href="home.php"><img src="assets/new_img/logo1.png" alt=""></a>
+                            <a class="navbar-brand" href="home.php"><img src="assets/new/logo1.png" alt=""></a>
                         </div>
 
                         <!-- Main Menu  -->
@@ -54,7 +54,7 @@
                                 <li><a class="navlink" href="#">About us</a>
                                     <ul class="sub-menu">
                                         <li><a href="about">About Us</a></li>
-                                        <li><a href="services">Our Services</a></li>                                        
+                                        <!-- <li><a href="services">Our Services</a></li>                                         -->
                                         <!-- <li><a href="team.html">Our Team</a></li>
                                         <li><a href="price.html">Pricing</a></li>
                                         <li><a href="faq.html">FAQs</a></li> -->
@@ -68,8 +68,8 @@
                                     </ul>
                                 </li>                               
                                 <li><a class="navlink" href="our work.php">Our Work</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="portfolio-standard">Standard</a></li>
+                                    <!-- <ul class="sub-menu"> -->
+                                        <!-- <li><a href="portfolio-standard">Standard</a></li> -->
                                         <!-- <li><a href="portfolio-metro.html">Metro Fullwidth</a></li>                                        
                                         <li><a href="portfolio-grid.html">Grid</a></li>
                                         <li><a href="portfolio-list.html">List</a></li>
@@ -85,7 +85,7 @@
                                                 <li><a href="portfolio-details-gallery.html">Gallery</a></li>
                                             </ul>
                                         </li> -->
-                                    </ul>
+                                    <!-- </ul> -->
                                 </li>
                                 <!-- <li><a class="navlink" href="#">Blog</a>
                                     <ul class="sub-menu">
