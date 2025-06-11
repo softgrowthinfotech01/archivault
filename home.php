@@ -69,7 +69,7 @@
                         
                         <div class="col-xl-4 col-lg-5">
                             <div class="service-info">
-                                <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. 
+                                <p>Our windows and doors are thoughtfully designed to provide both safety and comfort for your home or workspace. 
                                 </p>                                
                                 <a href="services" class="dark-btn mt-20 mr-10">View All Windows</a>    
                                 <a href="services" class="white-btn mt-20">View All Doors</a>
@@ -302,22 +302,22 @@
             <div class="row">
                 <div class="client-wrap owl-carousel">
                 <div class="clients-img-inner">
-                    <img src="assets/img/client/1.jpg" alt="">
+                    <img src="assets/img/client/2-1.jpg" alt="">
+                </div>
+                <div class="clients-img-inner-img">
+                    <img src="assets/img/client/2-2.jpg" alt="">
                 </div>
                 <div class="clients-img-inner">
-                    <img src="assets/img/client/2.jpg" alt="">
+                    <img src="assets/img/client/2-3.jpg" alt="">
+                </div>
+                <div class="clients-img-inner-img">
+                    <img src="assets/img/client/2-4.jpg" alt="">
                 </div>
                 <div class="clients-img-inner">
-                    <img src="assets/img/client/3.jpg" alt="">
+                    <img src="assets/img/client/2-5.jpg" alt="">
                 </div>
                 <div class="clients-img-inner">
-                    <img src="assets/img/client/4.jpg" alt="">
-                </div>
-                <div class="clients-img-inner">
-                    <img src="assets/img/client/5.jpg" alt="">
-                </div>
-                <div class="clients-img-inner">
-                    <img src="assets/img/client/6.jpg" alt="">
+                    <img src="assets/img/client/2-6.jpg" alt="">
                 </div>                
                 </div>
             </div>

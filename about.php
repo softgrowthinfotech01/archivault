@@ -198,7 +198,7 @@
                     <div class="col-xl-8 col-lg-7 col-md-6 wow fadeInLeft animated" data-wow-delay="400ms">
                         <a href="portfolio-details-left-sidebar.html" class="single-portfolio-wrapper">
                             <div class="portfolio-bg">
-                                <img src="new/1-4.jpg" alt="">
+                                <img src="assets/new/w3.jpg" alt="">
                             </div>
                             <div class="portfolio-details">
                                 <h5>Office Window</h5>
