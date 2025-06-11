@@ -62,7 +62,7 @@
                     <div class="row align-items-end">
                         <div class="col-xl-8 col-lg-7 wow fadeInUp animated" data-wow-delay="200ms">
                             <div class="section-title mb-0">
-                                <h1>Windows & Doors <br> That Ensure Safety <br> and Comfort 
+                                <h1>Lets together open <br> a vault of your <br>  dream home... 
                                 </h1>                                
                             </div>                                                        
                         </div>

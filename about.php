@@ -137,7 +137,7 @@
         <div class="overlay-2"></div>
         <div class="video-inner-box">            
             <div class="play-btn">
-                <a href="https://www.youtube.com/watch?v=iLhYtTbnO0o" class="video-play-btn mfp-iframe">Play</a>
+                <a href="https://www.youtube.com/watch?v=M265BNuEVKU&t=378s" class="video-play-btn mfp-iframe">Play</a>
             </div>
         </div>
     </div>
@@ -356,7 +356,7 @@
                 <div class="col-xl-8 col-lg-7">
                     <div class="cta-title">
                         <div class="section-title">
-                            <h3>Schedule a Free Consultation to <br> Design your Dream Home with us.</h3>
+                            <h3>Schedule a Free Consultation to <br> make your Dream home..</h3>
                         </div>
                     </div>
                 </div>
