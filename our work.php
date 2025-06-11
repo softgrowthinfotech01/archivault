@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 
-    <title>Archivault | Our Work</title>
+    <title>Archivault | Our Project</title>
 
     <!--Favicon-->
     <link rel="icon" href="assets/img/favicon.png" type="image/png">
@@ -58,7 +58,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 text-center">
                     <div class="breadcrumb-title">
-                        <h1>Portfolio - Standard</h1>
+                        <h1>Project</h1>
                     </div>
                     <div class="breadcrumb-icon">
                         <i class="las la-angle-down"></i>                    
