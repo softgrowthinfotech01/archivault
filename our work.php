@@ -146,6 +146,62 @@
             </div>
         </div>
     </div>
+    <!-- How we work start -->
+          <section class="how-we-work-area ptb-100">
+            <div class="container">
+                <div class="section-title">
+                    <span class="sub-title">How We Work</span>
+                    <h2>Proven Process for the Best <span>Result</span></h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                </div>
+
+                <div class="how-we-work-process">
+                    <div class="process-list">
+                        <div class="single-process">
+                            <div class="content bg-1">
+                                <div class="number">
+                                    1
+                                </div>
+                                <h3>Concept</h3>
+                                <p>Lorem ipsum dolor sit met, consecte adipiscing, sed do eiusmod tempor.</p>
+                            </div>
+                        </div>
+
+                        <div class="single-process">
+                            <div class="content bg-2">
+                                <div class="number">
+                                    2
+                                </div>
+                                <h3>Idea</h3>
+                                <p>Lorem ipsum dolor sit met, consecte adipiscing, sed do eiusmod tempor.</p>
+                            </div>
+                        </div>
+
+                        <div class="single-process">
+                            <div class="content bg-3">
+                                <div class="number">
+                                    3
+                                </div>
+                                <h3>Design</h3>
+                                <p>Lorem ipsum dolor sit met, consecte adipiscing, sed do eiusmod tempor.</p>
+                            </div>
+                        </div>
+
+                        <div class="single-process">
+                            <div class="content bg-4">
+                                <div class="number">
+                                    4
+                                </div>
+                                <h3>Execution</h3>
+                                <p>Lorem ipsum dolor sit met, consecte adipiscing, sed do eiusmod tempor.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+                               
+    <!-- How we work end -->
 
     <!-- footer section start -->
     <?php include 'footer.php'; ?>
