@@ -75,7 +75,7 @@
                 <div class="col-xl-8 col-lg-8">
                     <div class="service-details-wrap">
                         <div class="feature-img">
-                            <img src="assets/new_img/SD1.jpg" alt="">
+                            <img src="assets/new/SD1.jpg" alt="">
                         </div>
                         <p>As an architecture designer, I am passionate about creating spaces that are both functional and visually inspiring. I focus on blending modern design principles with practical solutions to meet the unique needs of each project. From initial concept to final execution, I strive to design environments that are sustainable, innovative, and deeply connected to the people who use them.</p>
                         <h5>About My Work.. </h5>
@@ -84,10 +84,10 @@
                         <div class="service-details-img">
                             <div class="row gy-5">
                                 <div class="col-md-6">
-                                    <img src="assets/new_img/SD2.jpg" alt="">
+                                    <img src="assets/new/SD2.jpg" alt="">
                                 </div>
                                 <div class="col-md-6">
-                                    <img src="assets/new_img/SD3.jpg" alt="">
+                                    <img src="assets/new/SD3.jpg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -96,7 +96,7 @@
                         <p>As an interior designer, I have crafted a variety of designs ranging from modern minimalist homes to vibrant commercial spaces. I carefully selected color palettes, textures, and furniture to create cohesive, functional areas that enhance everyday living and elevate the overall atmosphere.</p>
                         <p>The designs I made showcase my passion for creating spaces that tell a story. From cozy, warm interiors to sleek, contemporary layouts, each design was a unique expression of the client’s lifestyle, blending practicality with personalized style.</p>
                         <div class="service-details-img">
-                            <img src="assets/new_img/SD5.jpg" alt="">
+                            <img src="assets/new/SD5.jpg" alt="">
                         </div>
                         <p>The designs I’ve created reflect my passion for crafting spaces that speak to individuality. Whether it’s a cozy, inviting interior or a modern, sophisticated layout, each project brings together functionality and the client’s unique personality.</p>
                     </div>

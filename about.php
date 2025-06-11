@@ -74,10 +74,10 @@
                 <div class="col-xl-6 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".2s">
                     <div class="about-img-wrap">
                         <div class="image-one wow fadeInUp" data-wow-delay=".2s">
-                            <img src="assets/new_img/door1.jpg" alt="">
+                            <img src="assets/new/door1.jpg" alt="">
                         </div>                        
                         <div class="image-two wow fadeInUp" data-wow-delay=".4s">
-                            <img src="assets/new_img/window.jpg" alt="">
+                            <img src="assets/new/window.jpg" alt="">
                         </div> 
                                                
                     </div>
@@ -88,7 +88,7 @@
                             <h6>Premium quality</h6>
                             <h2>Your Comfort is Our Only Priority</h2>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                        <p> It blends style with practicality, creating comfortable, beautiful environments that feel open, organized, and easy to live in.</p>
                         <div class="about-feature">
                             <h4><span>01.</span>Worldwide Shipping</h4>
                             <h4><span>02.</span>Customer Support</h4>
@@ -153,7 +153,7 @@
                     </div>
                 </div>
                 <div class="col-xl-7 col-lg-7 col-md-7">
-                    <p class="pl-90 mb-0">Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernaturaut odit aut fugit, sed quia consequuntur. Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.</p>
+                    <p class="pl-90 mb-0"> I transformed a compact living room into a bright, functional space by using light colors, smart storage, and modern furniture. The design balanced style and comfort, perfectly reflecting the client’s needs and taste..</p>
                 </div>
                 
             </div>
@@ -162,7 +162,7 @@
                     <div class="col-xl-4 col-lg-5 col-md-6 wow fadeInLeft animated" data-wow-delay="200ms">
                         <a href="portfolio-details-left-sidebar.html" class="single-portfolio-wrapper">
                             <div class="portfolio-bg">
-                                <img src="assets/new_img/1-1.jpg" alt="">
+                                <img src="assets/new/1-1.jpg" alt="">
                             </div>
                             <div class="portfolio-details">
                                 <h5>Front Door</h5>
@@ -173,7 +173,7 @@
                     <div class="col-xl-8 col-lg-7 col-md-6 wow fadeInLeft animated" data-wow-delay="400ms">
                         <a href="portfolio-details-left-sidebar.html" class="single-portfolio-wrapper">
                             <div class="portfolio-bg">
-                                <img src="assets/new_img/1-2.jpg" alt="">
+                                <img src="assets/new/1-2.jpg" alt="">
                             </div>
                             <div class="portfolio-details">
                                 <h5>Glazed Terrace</h5>
@@ -186,7 +186,7 @@
                     <div class="col-xl-4 col-lg-5 col-md-6 wow fadeInLeft animated" data-wow-delay="200ms">
                         <a href="portfolio-details-left-sidebar.html" class="single-portfolio-wrapper">
                             <div class="portfolio-bg">
-                                <img src="assets/new_img/1-3.jpg" alt="">
+                                <img src="assets/new/1-3.jpg" alt="">
                             </div>
                             <div class="portfolio-details">
                                 <h5>Door Handles</h5>
@@ -198,7 +198,7 @@
                     <div class="col-xl-8 col-lg-7 col-md-6 wow fadeInLeft animated" data-wow-delay="400ms">
                         <a href="portfolio-details-left-sidebar.html" class="single-portfolio-wrapper">
                             <div class="portfolio-bg">
-                                <img src="new_img/1-4.jpg" alt="">
+                                <img src="new/1-4.jpg" alt="">
                             </div>
                             <div class="portfolio-details">
                                 <h5>Office Window</h5>
@@ -341,7 +341,7 @@
                             <h6>Nice to Meet You</h6>
                             <h2>Experts & Senior Team Leaders</h2>
                         </div>
-                        <p>Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim. Adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                        <p>Our team is led by experts and senior leaders with years of experience and deep industry knowledge. They guide every project with precision, ensuring high-quality results, innovative solutions, and seamless teamwork from start to finish..</p>
                         <a href="team.html" class="theme-btn mt-30">All Team Members</a>
                     </div>
                 </div>
@@ -356,7 +356,7 @@
                 <div class="col-xl-8 col-lg-7">
                     <div class="cta-title">
                         <div class="section-title">
-                            <h3>Schedule a Free Consultation for <br> Window and Door Replacement</h3>
+                            <h3>Schedule a Free Consultation to <br> Design your Dream Home with us.</h3>
                         </div>
                     </div>
                 </div>
