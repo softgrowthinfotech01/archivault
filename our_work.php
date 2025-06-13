@@ -73,7 +73,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-6">
-                    <a href="portfolio-details-right-sidebar.html" class="single-project-wrapper">
+                    <a href="portfolio-details-right-sidebar" class="single-project-wrapper">
                         <div class="project-img">
                             <img src="assets/new/modernkitchen.jpg" alt="">
                         </div>
@@ -85,7 +85,7 @@
                 </div>
                         
                 <div class="col-xl-4 col-lg-4 col-md-6">
-                    <a href="portfolio-details-right-sidebar.html" class="single-project-wrapper">
+                    <a href="portfolio-details-right-sidebar" class="single-project-wrapper">
                         <div class="project-img">
                             <img src="assets/new/yc.jpg" alt="">
                         </div>
@@ -97,7 +97,7 @@
                 </div>
                         
                 <div class="col-xl-4 col-lg-4 col-md-6">
-                    <a href="portfolio-details-right-sidebar.html" class="single-project-wrapper">
+                    <a href="portfolio-details-right-sidebar" class="single-project-wrapper">
                         <div class="project-img">
                             <img src="assets/new/contemporary.jpg" alt="">
                         </div>
@@ -109,7 +109,7 @@
                 </div>
                         
                 <div class="col-xl-4 col-lg-4 col-md-6">
-                    <a href="portfolio-details-right-sidebar.html" class="single-project-wrapper">
+                    <a href="portfolio-details-right-sidebar" class="single-project-wrapper">
                         <div class="project-img">
                             <img src="assets/new/custom.jpg" alt="">
                         </div>
@@ -121,7 +121,7 @@
                 </div>
 
                 <div class="col-xl-4 col-lg-4 col-md-6">
-                    <a href="portfolio-details-right-sidebar.html" class="single-project-wrapper">
+                    <a href="portfolio-details-right-sidebar" class="single-project-wrapper">
                         <div class="project-img">
                             <img src="assets/new/lightkitchen.jpg" alt="">
                         </div>
@@ -133,7 +133,7 @@
                 </div>
 
                 <div class="col-xl-4 col-lg-4 col-md-6">
-                    <a href="portfolio-details-right-sidebar.html" class="single-project-wrapper">
+                    <a href="portfolio-details-right-sidebar" class="single-project-wrapper">
                         <div class="project-img">
                             <img src="assets/new/bk.jpg" alt="">
                         </div>
@@ -147,7 +147,7 @@
         </div>
     </div>
     <!-- How we work start -->
-          <section class="how-we-work-area ptb-100">
+          <!-- <section class="how-we-work-area ptb-100">
             <div class="container">
                 <div class="section-title">
                     <span class="sub-title">How We Work</span>
@@ -200,7 +200,7 @@
                 </div>
             </div>
         </section>
-                               
+                                -->
     <!-- How we work end -->
 
     <!-- footer section start -->

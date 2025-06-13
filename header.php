@@ -67,7 +67,7 @@
                                         <li><a href="service-details">Service Details</a></li>
                                     </ul>
                                 </li>                               
-                                <li><a class="navlink" href="our work.php">Our Project</a>
+                                <li><a class="navlink" href="our_work.php">Our Project</a>
                                     <ul class="sub-menu">
                                         <li><a href="portfolio-details-right-sidebar">Portfolio Details</a></li>
                                         <!-- <li><a href="portfolio-standard">Standard</a></li> -->
@@ -166,7 +166,7 @@
                                                         </a>
                                                         <ul class="sub-menu-two">
                                                             <li><a href="portfolio-details-left-sidebar.html">Left Sidebar</a></li> -->
-                                                            <li><a href="portfolio-details-right-sidebar.html">Portfolio Details</a></li>
+                                                            <li><a href="portfolio-details-right-sidebar">Portfolio Details</a></li>
                                                             <!-- <li><a href="portfolio-details-gallery.html">Gallery</a></li>
                                                         </ul> -->
                                                     </li>

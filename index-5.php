@@ -236,7 +236,7 @@
             </div>
             <div class="row gy-4 mt-40">
                 <div class="col-xl-6 col-lg-6 col-md-6">
-                    <a href="portfolio-details-left-sidebar.html" class="single-portfolio-wrapper">
+                    <a href="portfolio-details-left-sidebar" class="single-portfolio-wrapper">
                         <div class="portfolio-bg">
                             <img src="assets/img/portfolio/2-1.jpg" alt="">
                             <div class="portfolio-details">
@@ -247,7 +247,7 @@
                     </a>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6">
-                    <a href="portfolio-details-left-sidebar.html" class="single-portfolio-wrapper">
+                    <a href="portfolio-details-left-sidebar" class="single-portfolio-wrapper">
                         <div class="portfolio-bg">
                             <img src="assets/img/portfolio/2-2.jpg" alt="">
                             <div class="portfolio-details">
@@ -258,7 +258,7 @@
                     </a>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6">
-                    <a href="portfolio-details-right-sidebar.html" class="single-portfolio-wrapper">
+                    <a href="portfolio-details-right-sidebar" class="single-portfolio-wrapper">
                         <div class="portfolio-bg">
                             <img src="assets/img/portfolio/2-3.jpg" alt="">
                             <div class="portfolio-details">
@@ -269,7 +269,7 @@
                     </a>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6">
-                    <a href="portfolio-details-right-sidebar.html" class="single-portfolio-wrapper">
+                    <a href="portfolio-details-right-sidebar" class="single-portfolio-wrapper">
                         <div class="portfolio-bg">
                             <img src="assets/img/portfolio/2-4.jpg" alt="">
                             <div class="portfolio-details">
@@ -280,7 +280,7 @@
                     </a>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 d-none d-lg-block">
-                    <a href="portfolio-details-gallery.html" class="single-portfolio-wrapper">
+                    <a href="portfolio-details-gallery" class="single-portfolio-wrapper">
                         <div class="portfolio-bg">
                             <img src="assets/img/portfolio/2-5.jpg" alt="">
                             <div class="portfolio-details">
@@ -433,7 +433,7 @@
                     </a>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6">
-                    <a href="blog-details.html" class="single-blog-item wow fadeInUp" data-wow-delay=".4s">
+                    <a href="blog-details" class="single-blog-item wow fadeInUp" data-wow-delay=".4s">
                         <div class="blog-img">
                             <img src="assets/img/blog/5.jpg" alt="">
                         </div>
@@ -452,7 +452,7 @@
                     </a>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6">
-                    <a href="blog-details.html" class="single-blog-item wow fadeInUp" data-wow-delay=".6s">
+                    <a href="blog-details" class="single-blog-item wow fadeInUp" data-wow-delay=".6s">
                         <div class="blog-img">
                             <img src="assets/img/blog/6.jpg" alt="">
                         </div>
@@ -517,7 +517,7 @@
             <div class="footer-up">
                 <div class="row gy-5">
                     <div class="col-lg-4 col-md-6 col-sm-12">
-                        <a href="index.html" class="logo">
+                        <a href="home" class="logo">
                             <img src="assets/img/logo-white.png" alt="logo">
                         </a>
                         <p>We provide the best window & door <br> services with reliable care.
@@ -541,11 +541,11 @@
                         <h5>Links</h5>
                         <ul>
                             <li>
-                                <a href="about.html">About</a>
-                                <a href="services.html">Services</a>
-                                <a href="portfolio-grid.html">Portfolio</a>
-                                <a href="price.html">Pricing</a>
-                                <a href="faq.html"> FAQ</a>
+                                <a href="about">About</a>
+                                <a href="services">Services</a>
+                                <a href="portfolio-grid">Portfolio</a>
+                                <a href="price">Pricing</a>
+                                <a href="faq"> FAQ</a>
                             </li>
                         </ul>
                     </div>
@@ -613,7 +613,7 @@
         </div>
         <div class="logo-side">
             <div class="logo">
-                <a class="navbar-brand" href="index.html"><img src="assets/img/logo-white.png" alt=""></a>
+                <a class="navbar-brand" href="home"><img src="assets/img/logo-white.png" alt=""></a>
             </div>
         </div>
         <div class="side-info">
@@ -622,7 +622,7 @@
                 <img src="assets/img/offcanvas-img.jpg" alt="">
 
                 <div class="mt-30 mb-30">
-                    <a href="contact.html" class="theme-btn">Get In Touch</a>
+                    <a href="contact" class="theme-btn">Get In Touch</a>
                 </div>
             </div>
             <div class="social-area-wrap">

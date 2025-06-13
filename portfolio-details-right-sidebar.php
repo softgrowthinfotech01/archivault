@@ -129,10 +129,10 @@
             <div class="row mt-100">
                 <div class="nav-links">
                     <div class="nav-previous">
-                        <a href="portfolio-details-left-sidebar.html"><span class="meta-nav"><i class="las la-arrow-left"></i>Prev Project</span></a>
+                        <a href="portfolio-details-left-sidebar"><span class="meta-nav"><i class="las la-arrow-left"></i>Prev Project</span></a>
                     </div>
                     <div class="nav-next">
-                        <a href="portfolio-details-gallery.html">Next Project<i class="las la-arrow-right"></i></a>
+                        <a href="portfolio-details-gallery">Next Project<i class="las la-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -145,7 +145,7 @@
             <div class="footer-up">
                 <div class="row gy-5">
                     <div class="col-lg-4 col-md-6 col-sm-12">
-                        <a href="index.html" class="logo">
+                        <a href="home" class="logo">
                             <img src="assets/img/logo-white.png" alt="logo">
                         </a>
                         <p>We provide the best window & door <br> services with reliable care.
@@ -169,11 +169,11 @@
                         <h5>Links</h5>
                         <ul>
                             <li>
-                                <a href="about.html">About</a>
-                                <a href="services.html">Services</a>
-                                <a href="portfolio-grid.html">Portfolio</a>
-                                <a href="price.html">Pricing</a>
-                                <a href="faq.html"> FAQ</a>
+                                <a href="about">About</a>
+                                <a href="services">Services</a>
+                                <a href="portfolio-grid">Portfolio</a>
+                                <a href="price">Pricing</a>
+                                <a href="faq"> FAQ</a>
                             </li>
                         </ul>
                     </div>
@@ -219,10 +219,10 @@
         <div class="search-inner">
             <div class="container">
                 <div class="logo">
-                    <a class="navbar-brand" href="index.html"><img src="assets/img/logo-white.png" alt=""></a>
+                    <a class="navbar-brand" href="home"><img src="assets/img/logo-white.png" alt=""></a>
                 </div>
                 <button class="close-search"><span class="la la-times"></span></button>
-                <form method="post" action="index.html">
+                <form method="post" action="home">
                     <div class="form-group">
                         <input type="search" name="search-field" value="" placeholder="Type your keyword" required="">
                         <button type="submit"><i class="fal fa-search"></i></button>

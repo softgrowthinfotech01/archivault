@@ -96,7 +96,7 @@
                 <div class="col-xl-6 col-lg-6">
                     <div class="quote-form-wrap">
                         <div class="quote-form">
-                            <form action="index.html">
+                            <form action="home">
                                 <span class="form-icon user-icon"></span><span class="form-control-wrap"><input type="text" placeholder="Name"></span>
                                 <span class="form-icon phone-icon"></span><span class="form-control-wrap"><input type="text" placeholder="Phone"></span>
                                 <span class="form-icon email-icon"></span><span class="form-control-wrap"><input type="email" placeholder="Email"></span>

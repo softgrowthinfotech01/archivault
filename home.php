@@ -245,7 +245,7 @@
             <div class="portfolio-slider owl-carousel">
                 <div class="row mt-60">
                     <div class="col-xl-4 col-lg-5 col-md-6 wow fadeInLeft animated" data-wow-delay="200ms">
-                        <a href="portfolio-details-right-sidebar.html" class="single-portfolio-wrapper">
+                        <a href="portfolio-details-right-sidebar" class="single-portfolio-wrapper">
                             <div class="portfolio-bg">
                                 <img src="assets/new/door_4.jpg" alt="">
                             </div>
@@ -256,7 +256,7 @@
                         </a>                        
                     </div>
                     <div class="col-xl-8 col-lg-7 col-md-6 wow fadeInLeft animated" data-wow-delay="400ms">
-                        <a href="portfolio-details-right-sidebar.html" class="single-portfolio-wrapper">
+                        <a href="portfolio-details-right-sidebar" class="single-portfolio-wrapper">
                             <div class="portfolio-bg">
                                 <img src="assets/new/bedroom.webp" alt="">
                             </div>
@@ -269,7 +269,7 @@
                 </div>
                 <div class="row mt-60">
                     <div class="col-xl-4 col-lg-5 col-md-6 wow fadeInLeft animated" data-wow-delay="200ms">
-                        <a href="portfolio-details-right-sidebar.html" class="single-portfolio-wrapper">
+                        <a href="portfolio-details-right-sidebar" class="single-portfolio-wrapper">
                             <div class="portfolio-bg">
                                 <img src="assets/new/doorhandal.jpg" alt="">
                             </div>
@@ -281,7 +281,7 @@
                         
                     </div>
                     <div class="col-xl-8 col-lg-7 col-md-6 wow fadeInLeft animated" data-wow-delay="400ms">
-                        <a href="portfolio-details-right-sidebar.html" class="single-portfolio-wrapper">
+                        <a href="portfolio-details-right-sidebar" class="single-portfolio-wrapper">
                             <div class="portfolio-bg">
                                 <img src="assets/new/front.jpg" alt="">
                             </div>

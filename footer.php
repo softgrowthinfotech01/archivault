@@ -32,10 +32,10 @@
                         <h5>Links</h5>
                         <ul>
                             <li>
-                                <a href="about.html">About</a>
-                                <a href="services.html">Services</a>
-                                <a href="portfolio-grid.html">Our Work</a>
-                                <a href="price.html">Pricing</a>
+                                <a href="about">About</a>
+                                <a href="services">Services</a>
+                                <a href="portfolio-grid">Our Work</a>
+                                <a href="price">Pricing</a>
                                 <!-- <a href="faq.html"> FAQ</a> -->
                             </li>
                         </ul>
@@ -82,10 +82,10 @@
         <div class="search-inner">
             <div class="container">
                 <div class="logo">
-                    <a class="navbar-brand" href="index.html"><img src="assets/img/logo-white.png" alt=""></a>
+                    <a class="navbar-brand" href="home"><img src="assets/img/logo-white.png" alt=""></a>
                 </div>
                 <button class="close-search"><span class="la la-times"></span></button>
-                <form method="post" action="index.html">
+                <form method="post" action="home">
                     <div class="form-group">
                         <input type="search" name="search-field" value="" placeholder="Type your keyword" required="">
                         <button type="submit"><i class="fal fa-search"></i></button>
