@@ -7,7 +7,7 @@
                         <a href="home" class="logo">
                             <img src="assets/new/logo1-remove.png" alt="logo">
                         </a>
-                        <p>We provide the best window & door <br> services with reliable care.
+                        <!-- <p>We provide the best window & door <br> services with reliable care. -->
                         </p>
                     </div>
                     <div class="col-lg-2 col-md-6">

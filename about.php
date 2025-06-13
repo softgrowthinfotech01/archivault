@@ -137,7 +137,7 @@
         <div class="overlay-2"></div>
         <div class="video-inner-box">            
             <div class="play-btn">
-                <a href="https://www.youtube.com/watch?v=M265BNuEVKU&t=378s" class="video-play-btn mfp-iframe">Play</a>
+                <a href="https://youtu.be/M265BNuEVKU?si=bkN5tL6rgUktz9iF" class="video-play-btn mfp-iframe">Play</a>
             </div>
         </div>
     </div>
