@@ -69,10 +69,9 @@
                         
                         <div class="col-xl-4 col-lg-5">
                             <div class="service-info">
-                                <p>Our windows and doors are thoughtfully designed to provide both safety and comfort for your home or workspace. 
-                                </p>                                
-                                <a href="services" class="dark-btn mt-20 mr-10">View All Windows</a>    
-                                <a href="services" class="white-btn mt-20">View All Doors</a>
+                                <p>Designing spaces that inspire, comfort, and reflect your unique style. </p>                                
+                                <a href="services" class="dark-btn mt-20 mr-10">View All Designs</a>    
+                                <!-- <a href="services" class="white-btn mt-20">View All Doors</a> -->
                             </div>
                                 
                         </div>
@@ -157,7 +156,8 @@
                         <p class="pt-30 pb-30">designed to suit both interior and exterior spaces.Our doors combine strength, style, and functionality, crafted with precision and quality materials.
                Ideal for homes, offices, and commercial use.</p>
                         <a href="about" class="theme-btn">About Us</a>
-                        <span class="contact-icon"><i class="fa-light fa-phone-volume"></i></span><span class="contact-num">0 800 555 44 33</span>
+                        <span class="contact-icon"><i class="fa-light fa-phone-volume"></i></span><span class="contact-num">9860487443 <br> <br>
+                                                                                                                           07172-274185</span>
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6">
