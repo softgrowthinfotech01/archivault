@@ -38,7 +38,57 @@
     <!-- Odometer CSS -->
     <link href="assets/css/odometer.min.css" rel="stylesheet">
     <!-- Style CSS -->
-    <link href="assets/css/style.css" rel="stylesheet">    
+    <link href="assets/css/style.css" rel="stylesheet">  
+    <Style>
+        .slider-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 1100px;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  margin: auto;
+  border-radius: 8px;
+}
+
+.slider-wrapper img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  pointer-events: none;
+}
+
+.after-img {
+  z-index: 2;
+  clip-path: inset(0 50% 0 0);
+  transition: clip-path 0.1s linear;
+}
+
+.slider-input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+  appearance: none;
+  background: transparent;
+  cursor: ew-resize;
+}
+
+.slider-input::-webkit-slider-thumb {
+  appearance: none;
+  width: 4px;
+  height: 100%;
+  background: #ff6600;
+  border: none;
+  box-shadow: 0 0 6px rgba(255, 102, 0, 0.8);
+}
+
+    </style>  
     
 
     <!-- jquery -->
@@ -74,9 +124,17 @@
             <div class="row gx-5">
                 <div class="col-xl-12 col-lg-">
                     <div class="project-details-inner">
-                        <div class="project-feature-img">
+                        <!-- <div class="project-feature-img">
                             <img src="assets/img/project/project-feature-img.jpg" alt="">
                         </div>
+                        -->
+                        <div class="slider-wrapper">
+  <img src="assets/new/1-1.jpg" alt="Before" class="before-img">
+  <img src="assets/new/bk.jpg" alt="After" class="after-img" id="afterImg">
+  <input type="range" min="0" max="100" value="50" class="slider-input" id="slider">
+</div>
+
+
                         <div class="project-details-content">
                             <h3>Sliding Wooden Doors</h3>
                             <p>Sliding wooden doors offer a perfect blend of style and functionality, adding warmth and elegance to any space. They are space-saving, easy to operate, and beautifully crafted to enhance both modern and traditional interiors.</p>                            
@@ -239,7 +297,19 @@
             <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
         </svg>
     </div>
+      <script>
+  window.addEventListener('DOMContentLoaded', () => {
+    const slider = document.getElementById('slider');
+    const afterImg = document.getElementById('afterImg');
 
+    slider.addEventListener('input', () => {
+      const val = slider.value;
+      afterImg.style.clipPath = `inset(0 ${100 - val}% 0 0)`;
+    });
+  });
+</script>
+
+    
     <!-- Popper JS -->
     <script src="assets/js/popper.min.js"></script>
     <!-- Bootstrap JS -->
