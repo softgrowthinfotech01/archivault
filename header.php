@@ -69,7 +69,7 @@
                                 </li>                               
                                 <li><a class="navlink" href="our work.php">Our Project</a>
                                     <ul class="sub-menu">
-                                        <li><a href="portfolio-details-right-sidebar">Portfolio Details</a></li>
+                                        <li><a href="portfolio-details">Portfolio Details</a></li>
                                         <!-- <li><a href="portfolio-standard">Standard</a></li> -->
                                         <!-- <li><a href="portfolio-metro.html">Metro Fullwidth</a></li>                                        
                                         <li><a href="portfolio-grid.html">Grid</a></li>
