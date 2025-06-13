@@ -197,77 +197,9 @@
         </div>
     </div>
 
-    <!-- Footer Area -->
-    <footer class="footer-area">
-        <div class="container">
-            <div class="footer-up">
-                <div class="row gy-5">
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <a href="home" class="logo">
-                            <img src="assets/img/logo-white.png" alt="logo">
-                        </a>
-                        <p>We provide the best window & door <br> services with reliable care.
-                        </p>
-                    </div>
-                    <div class="col-lg-2 col-md-6">
-                        <h5>Office</h5>
-                        <p>Corporate Office- <br>
-                            175 24th Street, OT- 35
-                            London, UK 265
-                        </p>
-                        <div class="company-email">
-                            <a href="#">info@windox.com</a>
-                        </div>
-                        <div class="phone-number">
-                            <p>+18-4675826</p>
-                        </div>
-
-                    </div>
-                    <div class="col-lg-2 offset-lg-1 col-md-6 com-sm-12">
-                        <h5>Links</h5>
-                        <ul>
-                            <li>
-                                <a href="about">About</a>
-                                <a href="services">Services</a>
-                                <a href="portfolio-grid">Portfolio</a>
-                                <a href="price">Pricing</a>
-                                <a href="faq"> FAQ</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <h5>Get in Touch</h5>
-                        <ul>
-                            <li>
-                                <div class="social-area">
-                                    <a href="#"><i class="lab la-facebook-f"></i>Facebook</a>
-                                    <a href="#"><i class="lab la-instagram"></i>Instagram</a>
-                                    <a href="#"><i class="lab la-linkedin-in"></i>linkedin</a>
-                                    <a href="#"><i class="la la-skype"></i>Skype</a>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </footer>
-
-    <!-- Footer Bottom Area -->
-
-    <div class="footer-bottom">
-        <div class="container">
-            <div class="row justify-content-center align-items-center justify-content-center">
-                <div class="col-lg-6 col-md-6 col-sm-12">
-                    <p class="copyright-line">© 2025 Windox. All rights reserved.</p>
-                </div>
-                <div class="col-lg-6 col-md-6 col-xs-12 text-md-end">
-                    <p class="privacy">Privacy Policy | Terms &amp; Conditions</p>
-                </div>
-            </div>
-        </div>
-    </div>
+    <!-- footer section start -->
+    <?php include 'footer.php'; ?>
+    <!-- footer end -->
 
     <!-- Search Dropdown -->
 
